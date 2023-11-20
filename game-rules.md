@@ -11,7 +11,7 @@
 - Video evidence is expected to be of a watchable quality, without frequent or extensive frame drops.
 - Game audio must be present (sound necessary, music optional) and game sounds should be audible over any background noise (voice, music etc.) at all times. 
 	- Runs will be rejected at the verifier's discretion if listening clearly to the game sounds requires uncomfortable levels of background noise.
-- HUD elements must be clearly visible at all times. This includes the soul meter, masks, and geo and essence counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen (visual guide: https://imgur.com/a/XgK6qDJ). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
+- HUD elements must be clearly visible at all times. This includes the soul meter, masks, and geo and essence counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen ([visual guide](https://imgur.com/a/XgK6qDJ)). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
 
 ### Timing
 - Use of the load remover integrated into LiveSplit is required for loadless timing. LiveSplit should be clearly visible.
