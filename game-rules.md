@@ -33,9 +33,9 @@
 ### Game modifications
 
 - Game modifications, including the Modding API, are banned, with the below exceptions:
-  - [ScreenShakeModifier](https://github.com/hk-speedrunning/HK-Resources/blob/main/ScreenShakeModifier/1221/Assembly-CSharp.dll) for 1221 is allowed.
-  - The standalone [load normaliser](https://github.com/Schyvun/HKCP_LoadNormaliser/releases/download/1.1/1432.1578.1.2.3.5.LoadNormaliser.UI.zip) used for races is allowed for No Major Glitches and 1.4.3.2+ NMG runs. It is banned for NMMS and AG runs.
-  - The [load extender](https://github.com/hk-speedrunning/HK-Resources/blob/3aebb74804c64d96017f3c6ecc8ba8398952af95/Mods/1028/Load%20Extender/Assembly-CSharp.dll) is allowed for NMMS and AG runs.
+  - [ScreenShakeModifier](https://github.com/hk-speedrunning/HK-Resources/blob/main/README.md#screenshakemodifier) for 1221 and 1432 is allowed.
+  - The standalone [load normaliser](https://github.com/hk-speedrunning/HK-Resources/blob/main/README.md#loadnormaliser) used for races is allowed for No Major Glitches and 1.4.3.2+ NMG runs. It is banned for NMMS and AG runs.
+  - The [load extender](https://github.com/hk-speedrunning/HK-Resources/blob/main/README.md#loadextender) is allowed for NMMS and AG runs.
   - [Minisavestates](https://github.com/hk-speedrunning/HK-Resources/blob/main/README.md#minisavestates) is allowed **_only_** in IL runs, and only if a savestate is not loaded during the run itself.
 
 ### Game Settings
@@ -51,7 +51,7 @@
 - Using a third-party program to limit framerate is allowed so long as the target framerate is 50fps or above and remains consistent during the run.
 - Macros and turbo functions are not allowed, with the below exceptions:
   - "SOCD cleaners", used to adjust the behaviour of overlapping left+right inputs (see [socd_cleaner.exe](https://github.com/valignatev/socd/releases/download/0.0.8/socd_cleaner.exe))
-  - Macros used to map mouse inputs 1-to-1 to keyboard inputs (see [blue.exe](https://github.com/hk-speedrunning/HK-Resources/raw/main/Blue/blue.exe))
+  - Macros used to map mouse inputs 1-to-1 to keyboard inputs (see [blue.exe](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/Blue/blue.exe))
   - Analog remappers used to bind keyboard keys to a virtual joystick
 - Each player input can be mapped to a maximum of one game input. Multiple player inputs can all be mapped to the same game input.
 
