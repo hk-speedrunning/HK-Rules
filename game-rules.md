@@ -40,7 +40,7 @@
 
 ### Game Settings
 
-- The following values in _[game location]/[hollow_knight_data]/Config.ini_ may be edited:
+- The following values in _[game location]/[hollow_knight_Data]/Config.ini_ may be edited:
   - **FrameRateCap**: May be set to any value above 50.
   - **CameraShakeMultiplier**: May be set to any value.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
