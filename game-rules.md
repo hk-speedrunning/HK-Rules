@@ -12,7 +12,7 @@
 - Video evidence is expected to be of a watchable quality, without frequent or extensive frame drops.
 - Game audio must be present (sound necessary, music optional) and game sounds should be audible over any background noise (voice, music etc.) at all times.
   - Runs will be rejected at the verifier's discretion if listening clearly to the game sounds requires uncomfortable levels of background noise.
-- HUD elements must be clearly visible at all times. This includes the soul meter, masks, and geo and essence counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen ([visual guide](https://imgur.com/a/XgK6qDJ)). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
+- HUD elements must be clearly visible at all times. This includes the soul meter, masks, and geo and essence counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen ([visual guide](video-guidelines.md)). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
 
 ### Timing
 
@@ -55,8 +55,16 @@
   - Analog remappers used to bind keyboard keys to a virtual joystick
 - Each player input can be mapped to a maximum of one game input. Multiple player inputs can all be mapped to the same game input.
 
-## **Gameplay Rules**
+## Gameplay Rules
 
 - Entering menus for the sole purpose of pausing the timer is not allowed.
 - Force exiting the game (Alt-F4) is only allowed when game menus are permanently inaccessible.
 - Inducing lag with Print Screen, moving the game window or any other method is not allowed.
+
+## Retiming
+
+- Infinite Loads into The Hollow Knight will have any time between force quitting the game and re-entering the load removed provided the following conditions hold:
+  - Health on re-entry is unchanged from the original value.
+  - Soul on re-entry is unchanged or less than the original value.
+  - No other objective is completed or benefit is gained, up to the verifier’s discretion. In particular, any difference from initial geo values must also not provide any benefit gained.
+  - The fight is re-entered quickly. Excessive breaks before returning to the fight risk invalidation.
