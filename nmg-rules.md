@@ -6,7 +6,7 @@ Please direct questions to us on the [Hollow Knight Speedrun Community Discord](
 ## Allowed Glitches:
 - Any glitch that is performed accidentally and provides no benefit to the runner.
 
-- Wallcling storage on patches before 1.3, so long as non-WCS NMG movement through the same space with current items and room state is available to the player.
+- Wallcling storage (WCS) on patches before 1.3, so long as non-WCS NMG movement through the same space with current items and room state is available to the player.
 	- If the non-WCS access requires permanent changes: these must be made prior to using WCS. An example would be if the non-WCS access requires breaking a breakable floor.
 	- If the non-WCS access requires enemies or objects to be in a certain state: they must be in that state or be able to be put in that state without reentering the room.
 	- Same space is defined topologically, meaning that two paths are in the same space if one can be dragged to the other in space without passing through any platforms or barriers.
@@ -103,7 +103,7 @@ accidental and of no significant benefit.
 
 - Unovercharm glitch.
 
-- Notch duping.
+- Charm notch duping.
 
 - Item duping.
 
