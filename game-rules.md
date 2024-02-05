@@ -57,9 +57,10 @@
 - Using a third-party program to limit framerate is allowed so long as the target framerate is 50fps or above and remains consistent during the run.
 - Macros and turbo functions are not allowed, with the below exceptions:
   - "SOCD cleaners", used to adjust the behaviour of overlapping left+right inputs (see [socd_cleaner.exe](https://github.com/valignatev/socd/releases/download/0.0.8/socd_cleaner.exe))
-  - Macros used to map mouse inputs 1-to-1 to keyboard inputs (see [blue.exe](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/Blue/blue.exe))
-  - Analog remappers used to bind keyboard keys to a virtual joystick
+  - Macros used to map mouse inputs 1-to-1 to keyboard inputs (see [blue.exe](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/Blue/blue.exe)) and vice versa (see [KeyboardToClick.ahk](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/KeyboardToClick/KeyboardToClick.ahk))
+  - Analog remappers used to bind keyboard keys to a virtual joystick.
 - Each player input can be mapped to a maximum of one game input. Multiple player inputs can all be mapped to the same game input.
+  - Binding an action to the scroll wheel or to the analog stick to allow turbo-like functionality is banned.
 
 ## Gameplay Rules
 
