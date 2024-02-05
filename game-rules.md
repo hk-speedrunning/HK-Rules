@@ -12,21 +12,27 @@
 - Video evidence is expected to be of a watchable quality, without frequent or extensive frame drops.
 - Game audio must be present (sound necessary, music optional) and game sounds should be audible over any background noise (voice, music etc.) at all times.
   - Runs will be rejected at the verifier's discretion if listening clearly to the game sounds requires uncomfortable levels of background noise.
-- HUD elements must be clearly visible at all times. This includes the soul meter, masks, and geo and essence counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen ([visual guide](video-guidelines.md)). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
+- HUD elements must be clearly visible at all times. This includes the soul meter, masks, and geo and essence counts. Where required for verification, there must be at least one clear frame of the Title Screen where the patch number and modding API text would be seen ([visual guide](https://github.com/hk-speedrunning/HK-Rules/blob/main/video-guidelines.md)). Runs will be rejected at the verifier's discretion if significant amounts of the active portion of the game window are covered.
 
 ### Timing
 
-- Use of the load remover integrated into LiveSplit is required for loadless timing. LiveSplit should be clearly visible.
-- If loadless time isn't used or is unverifiable, real time will be used instead.
-- If a console run is submitted to a PC leaderboard then it will be manually timed to the same start/stop points as the autosplitter.
+- Load Removed Time (LRT) is the time shown by the Livesplit autosplitter. For this to be accepted, Livesplit [must be clearly visible](https://github.com/hk-speedrunning/HK-Rules/blob/main/video-guidelines.md).
+  - If loadless time isn't used or is unverifiable, real time will be used instead.
+  - If a console run is submitted to a PC leaderboard then it will be manually timed to the same start/stop points as the autosplitter.
 - Pausing the timer manually is not acceptable and any paused time will be added to your run as a penalty.
-- Modifying the game is not allowed, this includes just having the modding API installed.
-- Milliseconds are only to be included for the Time Without Loads of a run on one of two cases:
 
-  1.  The run's Time Without Loads is under 10 minutes.
-  2.  The run is a tied WR.
-
-- Milliseconds should never be included in the Time With Loads.
+### Automated Submission Edits & Rejections
+- Our bot Hornet may edit your submission & leave comments in the description. Please do not edit your submission to revert these changes.
+- Hornet will also reject some runs soon after they are submitted. Please follow the guidance offered by the rejection message then resubmit.
+  - Twitch VODs will be automatically rejected; Twitch Highlights are allowed.
+- Hornet automatically edits submissions to follow these guidelines:
+  - Milliseconds are only to be included for the Time Without Loads of a run on one of two cases:
+  
+    1.  The run's Time Without Loads is under 10 minutes.
+    2.  The run is a tied WR.
+  
+  - Milliseconds should never be included in the Time With Loads.
+  - Where only RTA is available on a LRT board, the RTA time will be copied into the LRT field to preserve leaderboard formatting.
 
 ## Settings Rules
 
