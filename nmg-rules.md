@@ -81,11 +81,14 @@ Please direct questions to us on the [Hollow Knight Speedrun Community Discord](
 - Unclinged wallcling storage (where the knight collides with a curved surface during WCS, losing the wallcling animation while keeping the ability to continuously dash midair).
 
 - Airwalk obtained from turning around on corners and seams, if performed on purpose or if any benefit is gained from using it.
+  - Illegal benefit includes using airwalk to maintain walking speed when faster than ordinary movement (e.g. Sprintmaster equipped).
 
 - Chaining jumps from airwalk, if performed on purpose or if any benefit is gained from using it.
 
 - Seam Jumps (a glitch introduced in the 1.5 version of the game, allowing players to jump off of the seams in vertical walls without Mantis Claw) are banned, except when clearly 
 accidental and of no significant benefit.
+
+- Clipping underwater, or gaining nonswim movement in water or acid.
 
 - Text Storage (e.g. before Hornet 1).
 
@@ -120,3 +123,9 @@ accidental and of no significant benefit.
 - Televator.
 
 - Maintaining Fury of the Fallen buff despite not being at 1HP by leaving a dream at 1HP with Dreamgate.
+
+## Penalties
+A banned glitch which saves under 1 second with no other benefits, at verifier's discretion, may receive a 2 second penalty instead of rejection. Benefits which lead to rejection include but are not limited to:
+  - Any advantage gained during a boss fight.
+  - Any advantage which bypasses or trivializes technical movement.
+  - Any advantage in soul, hp, or geo beyond what could be acquired in 1 second otherwise.
