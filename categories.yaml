@@ -72,140 +72,68 @@ variables:
     values:
       All Glitches:
         id: 5lmj4n0l
-        rules: Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+        rules: |-
+          {{AG}}
       No Main Menu Storage:
         id: jq6kx7ol
         rules: |-
-          Use of any main menu storage glitch is not allowed.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{NMMS}}
       No Major Glitches:
         id: 9qjy4doq
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   106% Glitch:
     description: ''
     id: ylpegvd8
     values:
       All Glitches:
         id: 810em7pq
-        rules: Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+        rules: |-
+          {{AG}}
       No Major Glitches:
         id: mln603nq
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   107% AB Glitch:
     description: ''
     id: ql6165x8
     values:
       All Glitches:
         id: 5lmen7yq
-        rules: Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+        rules: |-
+          {{AG}}
       No Major Glitches:
         id: jq6w78nl
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   112% Glitch:
     description: ''
     id: onvj96mn
     values:
       All Glitches:
         id: 4qyey4d1
-        rules: Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+        rules: |-
+          {{AG}}
       No Major Glitches:
         id: 5q870z6l
         rules: |-
-          ## **Banned Glitches**
+          Pantheon AI Glitch on Soul Warrior is allowed with a +15s time penalty.
 
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          Pantheon AI Glitch on Soul Warrior is allowed with a +15s time penalty:
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   All Achievements Glitch:
     description: ''
     id: onv7r95n
     values:
       All Glitches:
         id: jqzp3yml
-        rules: Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+        rules: |-
+          {{AG}}
       No Major Glitches:
         id: 21g8poml
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          Pantheon AI Glitch on Soul Warrior is allowed however incurs a +15s time penalty.
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          Pantheon AI Glitch on Soul Warrior is allowed with a +15s time penalty.
+          
+          {{NMG}}
   All Bosses Glitch:
     description: ''
     id: e8m1ye86
@@ -213,36 +141,15 @@ variables:
       All Glitches:
         id: 0q5kp7mq
         rules: |-
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{AG}}
       No Main Menu Storage:
         id: 5lenwk6l
         rules: |-
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Use of any main menu storage glitch is not allowed.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{NMMS}}
       No Major Glitches:
         id: xqkomxk1
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   All Bosses Patch:
     description: null
     id: wle6d0x8
@@ -284,22 +191,7 @@ variables:
 
           **[Required collectables.](https://pastebin.com/We1mdJrn)**
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
       All Glitches:
         id: rqv39z7l
         rules: |-
@@ -328,22 +220,7 @@ variables:
 
           **[Required collectables.](https://pastebin.com/We1mdJrn)**
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking.  Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   Any% Glitch:
     description: ''
     id: yn2p3085
@@ -353,74 +230,41 @@ variables:
         rules: |-
           Beat the game with any amount of completion on patch 1.4.3.2 or later.
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
       All Glitches:
         id: zqod92p1
         rules: |-
           Beat the game with any amount of completion.
 
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{AG}}
       No Main Menu Storage:
         id: jq6vg6j1
         rules: |-
           Beat the game with any amount of completion.
 
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Use of any main menu storage glitch is not allowed.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{NMMS}}
       No Major Glitches:
         id: 81w7r6vq
         rules: |-
           Beat the game with any amount of completion.
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   Artist Bindings:
     description: null
     id: e8mrrwql
     values:
       All Bindings:
         id: 4qy3g2dl
-        rules: All bindings must be active.
+        rules: |-
+          {{ALL_BINDINGS}}
       All Bindings (1.4.3.2+):
         id: 81pwvpnl
-        rules: All bindings must be active. Must be run on patch 1.4.3.2 or later.
+        rules: |-
+          {{ALL_BINDINGS_LP}}
       Any Bindings:
         id: 5q85wv6q
-        rules: Any combination of bindings is allowed.
+        rules: |-
+          {{ANY_BINDINGS}}
   Console Category:
     description: null
     id: 38do641l
@@ -476,22 +320,7 @@ variables:
 
           Timing begins on difficulty or file select (if no difficulties unlocked) and ends on the fade to black after beating the game.
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in this Google Doc.](https://docs.google.com/document/d/e/2PACX-1vSXTgY4Gl8f7bigiC6xHMptH26JQaDtXHu6BuWUM2ayDDrmB9zZHQsi8Elkr1WHwVqlszhpg1T-VI6m/pub)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
       PS5/XSeries:
         id: 81ppz6e1
         rules: |-
@@ -501,22 +330,7 @@ variables:
 
           Timing begins on difficulty or file select (if no difficulties unlocked) and ends on the fade to black after beating the game.
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in this Google Doc.](https://docs.google.com/document/d/e/2PACX-1vSXTgY4Gl8f7bigiC6xHMptH26JQaDtXHu6BuWUM2ayDDrmB9zZHQsi8Elkr1WHwVqlszhpg1T-VI6m/pub)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
       Switch:
         id: 21ggxyo1
         rules: |-
@@ -526,74 +340,51 @@ variables:
 
           Timing begins on difficulty or file select (if no difficulties unlocked) and ends on the fade to black after beating the game.
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in this Google Doc.](https://docs.google.com/document/d/e/2PACX-1vSXTgY4Gl8f7bigiC6xHMptH26JQaDtXHu6BuWUM2ayDDrmB9zZHQsi8Elkr1WHwVqlszhpg1T-VI6m/pub)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   Godhome Ending Glitch:
     description: null
     id: 5ly7kkkl
     values:
       All Glitches:
         id: p12xn74l
-        rules: Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+        rules: |-
+          {{AG}}
       No Major Glitches:
         id: z1983n8q
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in this Google Doc.](https://docs.google.com/document/d/e/2PACX-1vSXTgY4Gl8f7bigiC6xHMptH26JQaDtXHu6BuWUM2ayDDrmB9zZHQsi8Elkr1WHwVqlszhpg1T-VI6m/pub)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   Hallownest Bindings:
     description: null
     id: dloyyge8
     values:
       All Bindings:
         id: 81w3x26l
-        rules: All bindings must be active.
+        rules: |-
+          {{ALL_BINDINGS}}
       All Bindings (1.4.3.2+):
         id: 21grv8oq
-        rules: All bindings must be active. Must be run on patch 1.4.3.2 or later.
+        rules: |-
+          {{ALL_BINDINGS_LP}}
       Any Bindings:
         id: 5lmz030q
-        rules: Any combination of bindings is allowed.
+        rules: |-
+          {{ANY_BINDINGS}}
   Knight Bindings:
     description: null
     id: gnxvvy6l
     values:
       All Bindings:
         id: jq636ooq
-        rules: All bindings must be active.
+        rules: |-
+          {{ALL_BINDINGS}}
       All Bindings (1.4.3.2+):
         id: gq7e0jr1
-        rules: All bindings must be active. Must be run on patch 1.4.3.2 or later.
+        rules: |-
+          {{ALL_BINDINGS_LP}}
       Any Bindings:
         id: 9qjjkmoq
-        rules: Any combination of bindings is allowed.
+        rules: |-
+          {{ANY_BINDINGS}}
   Low% Glitch:
     description: ''
     id: 5lyjjd2l
@@ -617,42 +408,21 @@ variables:
           - 1%: Monomon the Teacher
           - 1%: Herrah the Beast
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in this Google Doc.](https://docs.google.com/document/d/e/2PACX-1vSXTgY4Gl8f7bigiC6xHMptH26JQaDtXHu6BuWUM2ayDDrmB9zZHQsi8Elkr1WHwVqlszhpg1T-VI6m/pub)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
       All Glitches:
         id: 0q5wmdnq
         rules: |-
           Beat the game with 1% completion.
           - Videos must show completion percent at the end of the credits.
 
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{AG}}
       No Main Menu Storage:
         id: 013w77dq
         rules: |-
           Beat the game with 2% completion.
           - Videos must show completion percent at the end of the credits.
 
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Use of any main menu storage glitch is not allowed.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{NMMS}}
       No Major Glitches:
         id: 81weooo1
         rules: |-
@@ -671,35 +441,23 @@ variables:
           - 1%: Monomon the Teacher
           - 1%: Herrah the Beast
 
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in this Google Doc.](https://docs.google.com/document/d/e/2PACX-1vSXTgY4Gl8f7bigiC6xHMptH26JQaDtXHu6BuWUM2ayDDrmB9zZHQsi8Elkr1WHwVqlszhpg1T-VI6m/pub)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   Master Bindings:
     description: null
     id: 5lyppm9l
     values:
       All Bindings:
         id: 21drx8gq
-        rules: All bindings must be active.
+        rules: |-
+          {{ALL_BINDINGS}}
       All Bindings (1.4.3.2+):
         id: jqz78pkl
-        rules: All bindings must be active. Must be run on patch 1.4.3.2 or later.
+        rules: |-
+          {{ALL_BINDINGS_LP}}
       Any Bindings:
         id: klrnokw1
-        rules: Any combination of bindings is allowed.
+        rules: |-
+          {{ANY_BINDINGS}}
   Patch:
     description: null
     id: onvkzmlm
@@ -788,13 +546,16 @@ variables:
     values:
       All Bindings:
         id: 8103knp1
-        rules: All bindings must be active.
+        rules: |-
+          {{ALL_BINDINGS}}
       All Bindings (1.4.3.2+):
         id: xqkk2j4q
-        rules: All bindings must be active. Must be run on patch 1.4.3.2 or later.
+        rules: |-
+          {{ALL_BINDINGS_LP}}
       Any Bindings:
         id: mlnrjvnq
-        rules: Any combination of bindings is allowed.
+        rules: |-
+          {{ANY_BINDINGS}}
   Steel Soul Glitch:
     description: ''
     id: e8mrpyxl
@@ -802,43 +563,11 @@ variables:
       1.4.3.2+ NMG:
         id: 814jwwv1
         rules: |-
-          Patch 1.4.3.2 or later.
-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{LP_NMG}}
       No Major Glitches:
         id: 9qjy4zoq
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   True Ending Glitch:
     description: ''
     id: jlz32x82
@@ -846,57 +575,19 @@ variables:
       1.4.3.2+ NMG:
         id: 5leope5q
         rules: |-
-          The run should be done on patch 1.4.3.2 or later.
-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{LP_NMG}}
       All Glitches:
         id: 0133p4d1
         rules: |-
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{AG}}
       No Main Menu Storage:
         id: rqvxn6yl
         rules: |-
-          The increased load time mod under resources is allowed. All other mods are banned.
-
-          Use of any main menu storage glitch is not allowed.
-
-          Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+          {{NMMS}}
       No Major Glitches:
         id: 4qy78g2q
         rules: |-
-          ## **Banned Glitches**
-
-          - Any Invulnerability glitch
-          - Any Out of Bounds glitch
-          - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
-          - Any form of item duplication
-          - Inventory Storage
-          - Float glitch
-          - Superslides
-          - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
-
-          Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
-
-          **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
-
-          If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+          {{NMG}}
   White Palace Patch:
     description: null
     id: r8r11k7n
@@ -910,3 +601,52 @@ variables:
       1.3.1.5+:
         id: klr8rr21
         rules: Runs must be done on patch 1.3.1.5 or later.
+aliases:
+  NMG: |-
+    ## **Banned Glitches**
+
+    - Any Invulnerability glitch
+    - Any Out of Bounds glitch
+    - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
+    - Any form of item duplication
+    - Inventory Storage
+    - Float glitch
+    - Superslides
+    - Breaking Boss AI such that they are severely limited from moving or attacking. Hornet getting stuck in the ground after the stagger is an exempt from this rule as long as she's otherwise able to move and attack.
+
+    Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
+
+    **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
+
+    If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+  LP_NMG: |-
+    Patch 1.4.3.2 or later.
+
+    ## **Banned Glitches**
+
+    - Any Invulnerability glitch
+    - Any Out of Bounds glitch
+    - Any glitch that results in an invisible character or will result in a invisible character with no additional player input
+    - Any form of item duplication
+    - Inventory Storage
+    - Float glitch
+    - Superslides
+    - Breaking Boss AI such that they are severely limited from moving or attacking
+
+    Some use of glitches may be ignored if usage is both clearly accidental and not beneficial to the runner.
+
+    **[More detailed rules can be found in the Rules document.](https://github.com/hk-speedrunning/HK-Rules/blob/main/nmg-rules.md)**
+
+    If there is something not listed here that seems like a major glitch, please ask in the discord before using it in runs.
+  NMMS: |-
+    Use of any main menu storage glitch is not allowed.
+
+    Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+  AG: |-
+    Any glitch which persists through quitting out, such as Fast Map or File Duplication, should have its setup included in the run time.
+  ALL_BINDINGS: |-
+    All bindings must be active.
+  ALL_BINDINGS_LP: |-
+    All bindings must be active. Must be run on patch 1.4.3.2 or later.
+  ANY_BINDINGS: |-
+    Any combination of bindings is allowed.
