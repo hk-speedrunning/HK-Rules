@@ -40,34 +40,34 @@ categories:
       - Manually copying files is not allowed.
   All Bosses:
     id: 824m6ng2
-    rules: ''
+    rules: ""
   All Skills:
     id: n2y577zk
-    rules: ''
+    rules: ""
   Any%:
     id: 02q8o4p2
-    rules: ''
+    rules: ""
   Any% Steel Soul:
     id: wkp31j02
     rules: Beat the game with any amount of completion on a Steel Soul file.
   Console Runs:
     id: 7dg9e9gk
-    rules: ''
+    rules: ""
   Godhome Ending:
     id: 8241w7w2
     rules: Finish the game by defeating the Absolute Radiance.
   Level:
     id: wkpq608d
-    rules: ''
+    rules: ""
   Low%:
     id: w20w0v5d
-    rules: ''
+    rules: ""
   True Ending:
     id: wk617wxd
     rules: Finish the game by defeating the Radiance.
 variables:
   100% Glitch:
-    description: ''
+    description: ""
     id: 0nwog2xl
     values:
       All Glitches:
@@ -83,7 +83,7 @@ variables:
         rules: |-
           {{NMG}}
   106% Glitch:
-    description: ''
+    description: ""
     id: ylpegvd8
     values:
       All Glitches:
@@ -95,7 +95,7 @@ variables:
         rules: |-
           {{NMG}}
   107% AB Glitch:
-    description: ''
+    description: ""
     id: ql6165x8
     values:
       All Glitches:
@@ -107,7 +107,7 @@ variables:
         rules: |-
           {{NMG}}
   112% Glitch:
-    description: ''
+    description: ""
     id: onvj96mn
     values:
       All Glitches:
@@ -121,7 +121,7 @@ variables:
 
           {{NMG}}
   All Achievements Glitch:
-    description: ''
+    description: ""
     id: onv7r95n
     values:
       All Glitches:
@@ -132,10 +132,10 @@ variables:
         id: 21g8poml
         rules: |-
           Pantheon AI Glitch on Soul Warrior is allowed with a +15s time penalty.
-          
+
           {{NMG}}
   All Bosses Glitch:
-    description: ''
+    description: ""
     id: e8m1ye86
     values:
       All Glitches:
@@ -179,12 +179,12 @@ variables:
 
           **[List of all enemies considered bosses.](https://pastebin.com/VAmhdd6g)**
   All Skills Glitch:
-    description: ''
+    description: ""
     id: 38dopp1l
     values:
       1.4.3.2+ NMG:
         id: 4lxogy4l
-        rules: |- 
+        rules: |-
           Beat the game having collected all movement skills, nail arts, and spells.
           - Runs must be performed on patch 1.4.3.2 or later.
           - Skipping level 1 spells is allowed, as the level 2 spells completely replace them.
@@ -222,7 +222,7 @@ variables:
 
           {{NMG}}
   Any% Glitch:
-    description: ''
+    description: ""
     id: yn2p3085
     values:
       1.4.3.2+ NMG:
@@ -386,7 +386,7 @@ variables:
         rules: |-
           {{ANY_BINDINGS}}
   Low% Glitch:
-    description: ''
+    description: ""
     id: 5lyjjd2l
     values:
       1.4.3.2+ NMG:
@@ -475,7 +475,7 @@ variables:
         rules: |-
           {{ANY_BINDINGS}}
   Steel Soul Glitch:
-    description: ''
+    description: ""
     id: e8mrpyxl
     values:
       1.4.3.2+ NMG:
@@ -487,7 +487,7 @@ variables:
         rules: |-
           {{NMG}}
   True Ending Glitch:
-    description: ''
+    description: ""
     id: jlz32x82
     values:
       1.4.3.2+ NMG:
@@ -515,10 +515,13 @@ variables:
         rules: Runs must be on patches 1.0.0.5 - 1.0.0.7
       1.0.1.1-1.2.2.1:
         id: jqzkz2kq
-        rules: Runs must be on any official patch after 1.0.0.7 and before the Lifeblood update.
+        rules:
+          Runs must be on any official patch after 1.0.0.7 and before the Lifeblood
+          update.
       1.3.1.5+:
         id: klr8rr21
         rules: Runs must be done on patch 1.3.1.5 or later.
+
 aliases:
   NMG: |-
     ## **Banned Glitches**
