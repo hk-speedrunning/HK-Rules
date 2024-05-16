@@ -43,7 +43,10 @@ categories:
     rules: ""
   All Skills:
     id: n2y577zk
-    rules: ""
+    rules: |-
+      Beat the game having collected [all movement skills, nail arts, and spells](https://pastebin.com/We1mdJrn).
+      
+      - Skipping level 1 spells is allowed, as the level 2 spells completely replace them.
   Any%:
     id: 02q8o4p2
     rules: ""
@@ -185,41 +188,20 @@ variables:
       1.4.3.2+ NMG:
         id: 4lxogy4l
         rules: |-
-          Beat the game having collected all movement skills, nail arts, and spells.
           - Runs must be performed on patch 1.4.3.2 or later.
-          - Skipping level 1 spells is allowed, as the level 2 spells completely replace them.
-
-          **[Required collectables.](https://pastebin.com/We1mdJrn)**
 
           {{NMG}}
       All Glitches:
         id: rqv39z7l
         rules: |-
-          Beat the game having collected all movement skills, nail arts, and spells.
-          - Skipping level 1 spells is allowed, as the level 2 spells completely replace them.
-
-          **[Required collectables.](https://pastebin.com/We1mdJrn)**
-
-          The increased load time mod under resources is allowed. All other mods are banned.
+          {{AG}}
       No Main Menu Storage:
         id: gq798epl
         rules: |-
-          Beat the game having collected all movement skills, nail arts, and spells.
-          - Skipping level 1 spells is allowed, as the level 2 spells completely replace them.
-
-          **[Required collectables.](https://pastebin.com/We1mdJrn)**
-
-          Use of any main menu storage glitch is not allowed.
-
-          The increased load time mod under resources is allowed. All other mods are banned.
+          {{NMMS}}
       No Major Glitches:
         id: 81p49wv1
         rules: |-
-          Beat the game having collected all movement skills, nail arts, and spells.
-          - Skipping level 1 spells is allowed, as the level 2 spells completely replace them.
-
-          **[Required collectables.](https://pastebin.com/We1mdJrn)**
-
           {{NMG}}
   Any% Glitch:
     description: ""
@@ -516,8 +498,7 @@ variables:
       1.0.1.1-1.2.2.1:
         id: jqzkz2kq
         rules:
-          Runs must be on any official patch after 1.0.0.7 and before the Lifeblood
-          update.
+          Runs must be on any official patch after 1.0.0.7 and before the Lifeblood update.
       1.3.1.5+:
         id: klr8rr21
         rules: Runs must be done on patch 1.3.1.5 or later.
