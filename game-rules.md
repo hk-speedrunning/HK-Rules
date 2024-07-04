@@ -19,6 +19,10 @@
 - Load Removed Time (LRT) is the time shown by the Livesplit autosplitter. For this to be accepted, Livesplit [must be clearly visible](https://github.com/hk-speedrunning/HK-Rules/blob/main/video-guidelines.md).
   - If loadless time isn't used or is unverifiable, real time will be used instead.
   - If a console run is submitted to a PC leaderboard then it will be manually timed to the same start/stop points as the autosplitter.
+- Submissions must use an approved autosplitter/load remover. There is a submission variable to indicate the load remover used, with the following values:
+  - Default: the autosplitter used in Livesplit by default. [Source](https://github.com/ShootMe/LiveSplit.HollowKnight)
+  - WASM: an autosplitter designed for multiplatform use. [Source and installation instruction](https://github.com/AlexKnauth/hollowknight-autosplit-wasm).
+  - None: if no load remover was used, such as in console runs or pc runs without Livesplit.
 - Pausing the timer manually is not acceptable and any paused time will be added to your run as a penalty.
 
 ### Automated Submission Edits & Rejections
