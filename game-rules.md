@@ -38,6 +38,13 @@
   - Milliseconds should never be included in the Time With Loads.
   - Where only RTA is available on a LRT board, the RTA time will be copied into the LRT field to preserve leaderboard formatting.
 
+### Special Cases
+
+- 2 player 1 controller (2p1c) speedruns may be submitted to any of the leaderboards under the following guidelines:
+  - The run must be submitted under a joint speedrun.com account. The run description must identify the individual runners.
+  - The submission must include video evidence of the shared use of the input device. The input device need not be any specific type of controller, provided inputs are shared according to guidelines.
+  - The inputs must be shared as follows: one player has use of the 4 directional inputs and no more than two additional action buttons, which are not to include jump or nail swing. The other player has use of all other actions. The use of inventory or pause may be shared.
+
 ## Settings Rules
 
 ### Game modifications
