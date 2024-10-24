@@ -78,6 +78,8 @@
 - Entering menus for the sole purpose of pausing the timer is not allowed.
 - Force exiting the game (Alt-F4) is only allowed when game menus are permanently inaccessible.
 - Inducing lag with Print Screen, moving the game window or any other method is not allowed.
+- Individual level runs may not make use of any advantage from setting up on a different patch from the run itself.
+  - For example, a pantheon IL (on 1.4+) may not set up on 1.0.x.x to obtain 2 notch Quick Slash and Flukenest.
 
 ## Retiming
 
