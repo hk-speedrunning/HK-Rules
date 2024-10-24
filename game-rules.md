@@ -80,6 +80,7 @@
 - Inducing lag with Print Screen, moving the game window or any other method is not allowed.
 - Individual level runs may not make use of any advantage from setting up on a different patch from the run itself.
   - For example, a pantheon IL (on 1.4+) may not set up on 1.0.x.x to obtain 2 notch Quick Slash and Flukenest.
+- The game patch may not be changed at any point during a run.
 
 ## Retiming
 
