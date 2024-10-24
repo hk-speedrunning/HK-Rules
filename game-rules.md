@@ -38,6 +38,13 @@
   - Milliseconds should never be included in the Time With Loads.
   - Where only RTA is available on a LRT board, the RTA time will be copied into the LRT field to preserve leaderboard formatting.
 
+### Special Cases
+
+- 2 player 1 controller (2p1c) speedruns may be submitted to any of the leaderboards under the following guidelines:
+  - The run must be submitted under a joint speedrun.com account. The run description must identify the individual runners.
+  - The submission must include video evidence of the shared use of the input device. The input device need not be any specific type of controller, provided inputs are shared according to guidelines.
+  - The inputs must be shared as follows: one player has use of the 4 directional inputs and no more than two additional action buttons, which are not to include jump or nail swing. The other player has use of all other actions. The use of inventory or pause may be shared.
+
 ## Settings Rules
 
 ### Game modifications
@@ -71,6 +78,9 @@
 - Entering menus for the sole purpose of pausing the timer is not allowed.
 - Force exiting the game (Alt-F4) is only allowed when game menus are permanently inaccessible.
 - Inducing lag with Print Screen, moving the game window or any other method is not allowed.
+- Individual level runs may not make use of any advantage from setting up on a different patch from the run itself.
+  - For example, a pantheon IL (on 1.4+) may not set up on 1.0.x.x to obtain 2 notch Quick Slash and Flukenest.
+- The game patch may not be changed at any point during a run.
 
 ## Retiming
 
