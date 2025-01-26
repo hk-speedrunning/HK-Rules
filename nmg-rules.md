@@ -80,7 +80,7 @@ Please direct questions to us on the [Hollow Knight Speedrun Community Discord](
 
 - Unclinged wallcling storage (where the knight collides with a curved surface during WCS, losing the wallcling animation while keeping the ability to continuously dash midair).
 
-- Airwalk obtained from turning around on corners and seams, if performed on purpose or if any benefit is gained from using it.
+- Airwalk obtained via means other than dashing over a seam, including turning around on corners and seams or out of an airstall, if performed on purpose or if any benefit is gained from using it.
   - Illegal benefit includes using airwalk to maintain walking speed when faster than ordinary movement (e.g. Sprintmaster equipped).
 
 - Chaining jumps from airwalk, if performed on purpose or if any benefit is gained from using it.
