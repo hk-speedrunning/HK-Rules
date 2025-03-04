@@ -26,6 +26,31 @@
   - None: if no load remover was used, such as in console runs or pc runs without Livesplit.
 - Pausing the timer manually is not acceptable and any paused time will be added to your run as a penalty.
 
+### Breaks
+
+- Breaks can be a maximum of 10 minutes long: any time over this threshold will be added to your final time.
+- Breaks must be taken on the File Select screen on the menu:
+    - Pause the timer after you have hit the button to open the file select menu.
+    - To end the break, select a file then hit unpause.
+- You may take multiple breaks at once - eg. a 20 minute break will use 2 of your allotted breaks.
+- Verifiers may reject your run if they determine it to be abusing the pause system.
+- The recording must be left on the file select screen - switching to a different scene will result in a rejection.
+- To compensate for timesave in menuing, a 0.1s time penalty will be added to your final time.
+- Pausing the timer incorrectly will not result in a rejection, but a penalty of 0.3s or more will be applied to compensate for time saved.
+
+The following categories are eligible for breaks (all thresholds given are Loadless time):
+
+#### All Achievements
+
+- Up to 4 breaks in the first 7 hours.
+- After 7 hours, any number of breaks.
+
+#### 112% APB, 107% AB, 106% TE, 100% TE, All Bosses, Godhome Ending, Pantheon 5 Boss Order
+
+- Up to 2 breaks within the first 3 hours.
+- Breaks may not be taken during colosseums, White Palace, and after entering Pantheon 1.
+- After 3 hours, any number of breaks.
+
 ### Automated Submission Edits & Rejections
 - Our bot Hornet may edit your submission & leave comments in the description. Please do not edit your submission to revert these changes.
 - Hornet will also reject some runs soon after they are submitted. Please follow the guidance offered by the rejection message then resubmit.
