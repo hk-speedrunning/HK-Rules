@@ -31,7 +31,7 @@
 - Breaks must be taken on the File Select screen on the menu:
     - Pause the timer after you have hit the button to open the file select menu.
     - To end the break, select a file then hit unpause.
-- You may take multiple breaks at once - eg. a 20 minute break will use 2 of your alotted breaks.
+- You may take multiple breaks at once - eg. a 20 minute break will use 2 of your allotted breaks.
 - Verifiers may reject your run if they determine it to be abusing the pause system.
 - The recording must be left on the file select screen - switching to a different scene will result in a rejection.
 - To compensate for timesave in menuing, a 0.1s time penalty will be added to your final time.
