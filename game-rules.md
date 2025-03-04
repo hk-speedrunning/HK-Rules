@@ -3,8 +3,9 @@
 ### Video Evidence
 
 - Single segment video evidence is required.
-- Videos should be uploaded to a permanent host site; Twitch VODs are not accepted.
-  - Acceptable hosts include Youtube, Twitch Highlights and Bilibili.
+- Videos should be uploaded to a permanent host site.
+  - Twitch VODs and Highlights are not accepted, as Twitch limits your highlight storage. You can migrate runs to Youtube from the Video Producer.
+  - Acceptable hosts include Youtube and Bilibili.
   - The video must remain accessible; runs with videos removed or privated after verification may be removed from the boards.
 - Video evidence must show the Title Screen either at the start of the run, or at a timestamp given in the run description.
   - The Title Screen must be clearly visible, with a legible version number.
