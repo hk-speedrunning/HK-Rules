@@ -54,7 +54,7 @@ The following categories are eligible for breaks (all thresholds given are Loadl
 ### Automated Submission Edits & Rejections
 - Our bot Hornet may edit your submission & leave comments in the description. Please do not edit your submission to revert these changes.
 - Hornet will also reject some runs soon after they are submitted. Please follow the guidance offered by the rejection message then resubmit.
-  - Twitch VODs will be automatically rejected; Twitch Highlights are allowed.
+  - We are no longer accepting Twitch Highlights; please resubmit after exporting to YouTube.
 - Hornet automatically edits submissions to follow these guidelines:
   - Milliseconds are only to be included for the Time Without Loads of a run on one of two cases:
   
