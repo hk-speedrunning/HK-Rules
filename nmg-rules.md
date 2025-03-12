@@ -23,7 +23,7 @@ Please direct questions to us on the [Hollow Knight Speedrun Community Discord](
 	- Gaining early control by taking damage from an enemy
 		- This includes early control for the City of Tears fountain cutscene
 		- This includes skipping boss roars via intentional damage (e.g. on The Hollow Knight, The Collector, etc)
-	- Note: in many early control states, it is easy to accidentally perform major glitches such as focus storage, certain forms of float, or text storage. It is the runner’s responsibility to ensure this does not happen, and runs which do perform major glitches risk invalidation. Runners should be careful to avoid gaining control with inventory open, while at a bench, or while casting spells
+	- Note: in many early control states, it is easy to accidentally perform major glitches such as focus storage, certain forms of float, or text storage. It is the runner’s responsibility to ensure this does not happen, and runs which do perform major glitches risk invalidation. Runners should be careful to avoid gaining control with inventory open, while at a bench, during any kind of load, or while casting spells
 
 - Inventory storage, in cases where it is clearly accidental and no benefit is gained e.g. when falling into Deepnest near Spore Shroom.
 
