@@ -16,26 +16,22 @@ Please direct questions to us on the [Hollow Knight Speedrun Community Discord](
 - Early control, as long as it does not result in major glitches such as text storage or invisibility. The following means of early control are generally legal:
 	- Gaining early control by pausing and unpausing, as long as it doesn't result in a major glitch like text storage
 	- Leaving seer's room early after acquiring Dream Nail (even though this technically results in invisibility behind the white screen)
-	- Gaining early control by hitting a hazard with inventory open.
+	- Gaining early control by hitting a hazard with inventory open
 		- This includes early control at Isma’s Tear via jumping into acid before picking up the item
-	- Gaining early control by using a hazard to skip roar animations.
+	- Gaining early control by using a hazard to skip roar animations
 		- This includes early control at the Soul Master fight via jumping into the spikes on the right side of the room
 	- Gaining early control by taking damage from an enemy
 		- This includes early control for the City of Tears fountain cutscene
 		- This includes skipping boss roars via intentional damage (e.g. on The Hollow Knight, The Collector, etc)
-	- Note: in many early control states, it is easy to accidentally perform major glitches such as focus storage, certain forms of float, or text storage. It is the runner’s responsibility to ensure this does not happen, and runs which do perform major glitches risk invalidation.
+	- Note: in many early control states, it is easy to accidentally perform major glitches such as focus storage, certain forms of float, or text storage. It is the runner’s responsibility to ensure this does not happen, and runs which do perform major glitches risk invalidation. Runners should be careful to avoid gaining control with inventory open, while at a bench, or while casting spells
 
 - Inventory storage, in cases where it is clearly accidental and no benefit is gained e.g. when falling into Deepnest near Spore Shroom.
-
-- Gaining early control by pausing and unpausing, as long as it doesn't result in a major glitch like text storage e.g. leaving seer's room early after acquiring Dream Nail.
 
 - White screen glitch, as long as the runner performs a save & quit to fix the glitch without achieving any in-game goals relevant to the category being run.
 
 - Skipping pick-up animations by quitting to the main menu, as long as pausing during the pick-up does not involve the use of a glitch.
 
 - Opening inventory in midair to drop faster and cancel the landing animation.
-
-- Gaining early control by hitting a hazard with inventory open.
 
 - Falling off a ledge shortly after landing on it in order to cancel the landing animation.
 
@@ -46,8 +42,6 @@ Please direct questions to us on the [Hollow Knight Speedrun Community Discord](
 - Abusing incorrect hazard respawn locations e.g. the hazard warp below the first arena in Queen's Gardens.
 
 - Causing tolls to activate early by looking down, turning around or using focus.
-
-- Gaining early control by taking intentional damage e.g. the Hollow Knight scream skip. Early controls that lead to text storage are banned however.
 
 - Hitting levers, grubs or other interactable objects through walls e.g. the lever skip in the Watcher's Spire.
 
