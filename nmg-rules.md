@@ -123,3 +123,9 @@ A banned glitch which saves under 1 second with no other benefits, at verifier's
   - Any advantage gained during a boss fight.
   - Any advantage which bypasses or trivializes technical movement.
   - Any advantage in soul, hp, or geo beyond what could be acquired in 1 second otherwise.
+
+In regards to accidentally or intentionally performing major glitches that either do not save time or save minimal time:
+  - Accidental as part of normal nmg movement and saves no time or negligable time is permitted without penalty (ex. wcs on the elevator).
+  - Accidental and saving significant time (~0.3 to 2s) and does not trivialize difficult movement will be penalized with a 2s penalty.
+  - Intentionally performing a major glitch without saving time will be warned, repeat offenders may be punished or rejected.
+  - Intentionally performing a major glitch that saves significant time will be rejected.
