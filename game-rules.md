@@ -85,7 +85,7 @@ The following categories are eligible for breaks (all thresholds given are Loadl
 
 - The following values in _[game location]/[hollow_knight_Data]/Config.ini_ may be edited:
   - **FrameRateCap**: May be set to any value of at least 50.
-  - **CameraShakeMultiplier**: May be set to any value. Note: The gameplay must still be of watchable quality so putting the multiple above 1 may result in a rejection.
+  - **CameraShakeMultiplier**: May be set to any value. Note: Gameplay must still be of watchable quality so putting the multiplier above 1 may result in a rejection.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
 - If either either Vsync or FrameRateCap are toggled during the run, you must have a clearly visible FPS display in your recording.
 
