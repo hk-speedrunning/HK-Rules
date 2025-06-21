@@ -87,11 +87,11 @@ The following categories are eligible for breaks (all thresholds given are Loadl
   - **FrameRateCap**: May be set to any value above 50.
   - **CameraShakeMultiplier**: May be set to any value.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
-- Using in-game Frame Rate Cap or external tools to limit framerate is allowed so long as the target framerate is at least 50fps. Going below 50fps is not allowed. If either of these options are used in your run then you must have a clearly visible FPS display in your recording. First time offenders will be given a warning and, as long as there is nothing else wrong with the run, it will be accepted up to the verifier's discretion. Additional offenses will result in a rejection.
+- If either either Vsync or Frame-Rate-Cap are toggled during the run, you must have a clearly visible FPS display in your recording.
 
 ### Third-party programs
 
-- Using a third-party program to limit framerate is allowed so long as the target framerate is 50fps or above and remains consistent during the run.
+- Using a third-party program to limit framerate is allowed so long as the target framerate is 50fps or above and the cap is not modified or disabled during the run.
 - Macros and turbo functions are not allowed, with the below exceptions:
   - "SOCD cleaners", used to adjust the behaviour of overlapping left+right inputs (see [socd_cleaner.exe](https://github.com/valignatev/socd/releases/download/0.0.8/socd_cleaner.exe))
   - Macros used to map mouse inputs 1-to-1 to keyboard inputs (see [blue.exe](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/Blue/blue.exe)) and vice versa (see [KeyboardToClick.ahk](https://github.com/hk-speedrunning/HK-Resources/raw/main/External%20Tools/KeyboardToClick/KeyboardToClick.ahk))
