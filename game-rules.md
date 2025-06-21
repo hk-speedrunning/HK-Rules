@@ -87,7 +87,7 @@ The following categories are eligible for breaks (all thresholds given are Loadl
   - **FrameRateCap**: May be set to any value above 50.
   - **CameraShakeMultiplier**: May be set to any value.
 - Using in-game Vsync to limit framerate is allowed so long as the target monitor's refresh rate remains consistent during the run.
-- If either either Vsync or Frame-Rate-Cap are toggled during the run, you must have a clearly visible FPS display in your recording.
+- If either either Vsync or FrameRateCap are toggled during the run, you must have a clearly visible FPS display in your recording.
 
 ### Third-party programs
 
