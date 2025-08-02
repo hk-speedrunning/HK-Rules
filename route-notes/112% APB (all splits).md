@@ -1,13 +1,13 @@
-112% All Pantheon Bosses 11 Late Fury route
- 
+# 112% All Pantheon Bosses 11 Late Fury route
+
 Note: All Pantheon Bosses means that you must fight every boss that appears in the Pantheons, but not necessarily in the overworld (which means that we can skip Soul Tyrant and banish NKG).
 
- 
+
 {Essence}
 (Number stands for Grubs) & (additional notes)
 [Rough Geo amount you should expect here]
- 
-Vengeful Spirit
+
+## Vengeful Spirit
  - Go through King's Pass (no fury)
  - Get the geo rock and kill husk underneath the well [22]
  - Aspid arena [35-40]
@@ -17,15 +17,15 @@ Vengeful Spirit
  - Collect the City Crest and geo chest [205]
  - Collect Vengeful Spirit
  - Grab Soul Catcher (bench and equip soul catcher) [255]
- 
-Mothwing Cloak
+
+## Mothwing Cloak
  - Head through Greenpath like normal
  - Kill the Vengefly King [415]
  - Open the Greenpath stag [275]
  - Fight Hornet and collect Mothwing Cloak
  - S&Q to Ancestral Mound
- 
-Fungal Wastes
+
+## Fungal Wastes
  - Head down into Fungal Wastes and bench at Leg Eater
  - Head to and collect Mantis Claw [Ideally you get some geo from the lever mantis in mantis village]
  - Head right and down towards Bretta
@@ -33,8 +33,8 @@ Fungal Wastes
  - Rescue Bretta and S&Q to the bench and overcharm Dashmaster
  - Fight Shrumal Ogres and pick up the charm notch [375]
  - Head right and enter City of Tears
- 
-City of Tears
+
+## City of Tears
  - Grab the rafters seal (optionally bench at Quirell)
  - Head through the DLC rooms to Sanctum (no grub yet) [395]
  - Fight the Soul Twister arena and enter Sanctum [410]
@@ -46,8 +46,8 @@ City of Tears
  - Exit Sanctum and head to Storerooms
  - Grab the Simple Key [1030]
  - Open the Storerooms stag and stag to Crossroads (swap soul catcher for twister while waiting) [835]
- 
-Crystal Peak
+
+## Crystal Peak
  - Bench in Crossroads stag
  - Rescue the Aspid wall grub (2) [845]
  - Rescue the guarded grub, kill the husk guard (3) [890]
@@ -57,8 +57,8 @@ Crystal Peak
  - Grab the Shopkeeper's Key
  - Hit the levers above and below the conveyors
  - Collect Crystal Heart
- 
-Dream Nail
+
+## Dream Nail
  - Rescue the grub in the Crystal Heart room (5)
  - Do NOT rescue the crushers grub (yet)
  - Head down and rescue the grub below the crushers/All Skills grub (6)
@@ -67,8 +67,8 @@ Dream Nail
  - Collect Descending Dark
  - Drop down into Resting Grounds
  - Collect Dream Nail
- 
-Sly rescued
+
+## Sly rescued
  - Open the Resting Grounds stag (don't bench)
  - Dive into the crypts
  - Grab the geo chest (no crypts grub) [1095]
@@ -79,12 +79,12 @@ Sly rescued
  - Buy Shaman Stone and a charm notch [765]
  - Rescue Sly and S&Q to the stag (equip shaman stone)
 
-Shade Soul
+## Shade Soul
  - Fight Glowing Womb [810]
- - Stag to Dirtmouth, buy Elegant Key, Stag to Storerooms[10-30ish] 
+ - Stag to Dirtmouth, buy Elegant Key, Stag to Storerooms[10-30ish]
  - Fight the Soul Warrior and collect Shade Soul [230]
- 
-Royal Waterways
+
+## Royal Waterways
  - Head down (through the Sanctum entrance to skip the arena) and rescue the grub (9)
  - Sell to Lemm [1930]
  - Head into Waterways and sit at the bench (if you don't overcharm for flukenest, do grub and mask shard first)
@@ -94,8 +94,8 @@ Royal Waterways
  - Head to and fight Dung Defender
  - Collect Defender's Crest and the king's idol under the valve
  - Exit into the broken elevator shaft and head down into Ancient Basin (no Isma's yet)
- 
-Monarch Wings & Lost Kin
+
+## Monarch Wings & Lost Kin
  - Sit at the Basin toll bench (Change charms to twister and shaman stone) [1780]
  - Head through the Mawlurks and grab the Simple Key
  - Fight Broken Vessel
@@ -104,8 +104,8 @@ Monarch Wings & Lost Kin
  - Cdash back across and rescue the wings grub (11)
  - S&Q to the toll bench (overcharm shaman stone)
  - Head to Hidden Station, stag to Dirtmouth, and bench [1480]
- 
-Howling Cliffs
+
+## Howling Cliffs
  - Head through King's Pass to Howling Cliffs
  - Learn Cyclone Slash
  - Fight Gorb (collect the essence after Stag Nest if you aren't doing early control) {500}
@@ -113,8 +113,8 @@ Howling Cliffs
  - Light the Nightmare Lantern (no wanderer's journal)
  - Grab the Cliffs idol (no early Joni's)
  - S&Q to Dirtmouth (unequip all charms) and collect Grimmchild S&Q
- 
-Crystal Peak
+
+## Crystal Peak
  - Equip flukenest and grimmchild
  - Elevator skip to Peak
  - Rescue the non-mimic grub (12) (use the mimic for soul)
@@ -129,8 +129,8 @@ Crystal Peak
  - Head left and rescue the crushers grub (14)
  - Exit the crushers room to the left and grab Deep Focus
  - S&Q to Dirtmouth (swap to Flukenest + Spell Twister)
- 
-Failed Champion, City Storerooms, & Dreamgate
+
+## Failed Champion, City Storerooms, & Dreamgate
  - Stag to Resting Grounds and bench
  - Stag to Crossroads
  - Head to and fight Failed Champion {800}
@@ -142,8 +142,8 @@ Failed Champion, City Storerooms, & Dreamgate
  - Take the elevator up and collect the vessel fragment [2265]
  - S&Q to Resting Grounds and call the stag
  - Collect the Seer's rewards up to Dreamgate
- 
-Greenpath Vessel Fragment
+
+## Greenpath Vessel Fragment
  - Stag to Greenpath (don't bench)
  - Head down through the room outside of the stag and set a DG in the room below
  - Head left to and learn Great Slash
@@ -157,7 +157,7 @@ Greenpath Vessel Fragment
  - Rescue the MMC grub (17)
  - Collect the vessel fragment and S&Q to Resting Grounds (call the stag)
 
-No eyes shard
+## No eyes shard
  - Unequip grimmchild and dashmaster, call the stag, bench and equip wielder + overcharm grimmchild (or just unequip Dashmaster if you don't want to overcharm)
  - Stag to Dirtmouth
  - Buy Lumafly Lantern from Sly [215]
@@ -167,8 +167,8 @@ No eyes shard
  - Fight the arena, collect Howling Wraiths, and DG back
  - Head to Stone Sanctuary and fight No Eyes (optionally cry) {1100}
  - Grab the mask shard and S&Q to Resting Grounds (unequip Dream Wielder if you're overcharmed)
- 
-King's Brand
+
+## King's Brand
  - Head through the crypts, past the elevator, and kill the Grimmkin
  - Take the elevator down to King's Station
  - Fight the arena and collect the vessel fragment [355]
@@ -179,22 +179,22 @@ King's Brand
  - Optionally safety bench
  - Fight Hornet 2 and collect the King's Brand
 
-Shade Soul
+## Shade Soul
  - DG back to King's Station (optimally keep grimmchild and equip dashmaster + dream wielder) and stag to Hidden Station
  - Head down into the Abyss and collect Abyss Shriek
  - Head through the Sibling climb and collect Shade Cloak
  - S&Q and grab the Arcane egg
  - DG to King's Station
- 
-Isma's Tear & Troupe Master Grimm
+
+## Isma's Tear & Troupe Master Grimm
  - Head to the broken elevator shaft and do the skips to Isma's Tear (with wings); collect FULL soul for Grimm
  - Collect Isma's Tear and rescue the grub (18, in that order; if you do early control)
  - DG to King's Station and stag to Dirtmouth
  - Bench and swap to Grimmchild, Twister and Shaman stone (can 1 cycle or get a very safe 2 cycle this way)
  - Fight Troupe Master Grimm and collect the charm notch
  - S&Q and swap to twister + defender's crest + dream wielder + dashmaster
- 
-Infected Crossroads & Fungal Wastes
+
+## Infected Crossroads & Fungal Wastes
  - Head into Crossroads to Grubfather and collect the first 18 rewards (release cdash after 2 geo tosses after the rancid egg) [1275]
  - Rescue the Vengefly grub (19)
  - Fight Brooding Mawlek and collect the mask shard
@@ -208,8 +208,8 @@ Infected Crossroads & Fungal Wastes
  - DG back to the whispering root room
  - Head through Fungal Core to Deepnest
  - Grab the mask shard and S&Q to Leg Eater (unequip twister)
- 
-Fog Canyon
+
+## Fog Canyon
  - Head to the whispering root room and get essence from it {should have around 1204} after this
  - Grab the Fog Canyon charm notch (no DG)
  - Head to and set a DG outside Archives (no grub yet)
@@ -217,8 +217,8 @@ Fog Canyon
  - Absorb Monomon and DG back
  - Head down and grab the Queen's Station mask shard
  - Head back up, through "QGA" into Queen's Gardens
- 
-Queen's Gardens
+
+## Queen's Gardens
  - Fight the Petra arena
  - Set a DG at the top of the whispering root room
  - Grab the Love Key and head past Moss Prophet and the Deepnest drop entrance [900]
@@ -231,8 +231,8 @@ Queen's Gardens
  - Head through the frog rooms (no DG)
  - Don't rescue the frogs grub (yet)
  - Kill Marmu {1350} and DG back
- 
-Galien
+
+## Galien
  - Head down into Deepnest
  - Set a DG in the whispering root room and head to Distant Village
  - Skip Beast's Den and absorb Herrah
@@ -243,7 +243,7 @@ Galien
  - Grab Weaversong [1100]
  - Head to and kill Galien {1550}
 
-Nosk Pale Ore
+## Nosk Pale Ore
  - Head up to Failed Tramway and set a DG where you emerge inside of it
  - Grab Tram Pass and DG back
  - Head right and down to fight the Corpse Crawler arena
@@ -253,7 +253,7 @@ Nosk Pale Ore
  - Rescue the Nosk grub (27)
  - Fight Nosk
 
-Basin Pale Ore
+## Basin Pale Ore
  - Collect the pale ore and S&Q to the hot spring (Unequip Wielder and Flukenest and Equip Dashmaster)
  - Grab Sharp Shadow, go up and collect the vessel fragment (S&Q loses a bit of time but is much more comfortable, equip sharp shadow if you do it, otherwise do it after vessel fragment)
  - Swap Spell Twister for Sharp Shadow (or optionally just don't change charms if that's more comfortable) and head back to the Garpede room
@@ -261,7 +261,7 @@ Basin Pale Ore
  - Rescue the Basin dive grub (28)
  - Kill the Mawleks and grab the pale ore [1168, rounded to 1170 for ease of math]
 
-Kingdom's Edge 2
+## Kingdom's Edge 2
  - S&Q to the tram and take it to Kingdom's Edge
  - Head up and rescue the Hwurmp grub (29)
  - Rescue the external Hive grub (30)
@@ -271,8 +271,8 @@ Kingdom's Edge 2
  - Head to Oro and buy Dash Slash (don't bench) [370]
  - Head through the dive rooms and rescue the Oro grub (32)
  - Grab Quick Slash and S&Q to the tram
- 
-The Hive & The Collector
+
+## The Hive & The Collector
  - Swap to Shaman Stone + Dream Wielder + Flukenest (optionally overcharm Spell Twister)
  - Enter and head through the Hive
  - Rescue the grub (33) and grab the mask shard
@@ -282,8 +282,8 @@ The Hive & The Collector
  - Set a DG next to the door
  - Fight the Collector (there's a consistent and fairly easy quick kill with Flukenest)
  - Rescue the Collector grubs (36) and DG back
- 
-City of Tears
+
+## City of Tears
  - Rescue the tunnel grub using Dash Slash through the wall (37)
  - Rescue the City guarded grub (38) [420]
  - Set a DG at base of Watcher's Spire and head up (use Abyss Shriek to kill the Great Husk Sentry)
@@ -291,19 +291,19 @@ City of Tears
  - Fight the Watcher Knights (using Flukenest, you can even skip the chandelier optimally)
  - Collect the geo chest and Hallownest seal [1125]
  - Absorb Lurien and DG back
- - Head through the fountain and talk to Lemm (probably getting a bit of geo from cycloning the enemies at fountain) 
+ - Head through the fountain and talk to Lemm (probably getting a bit of geo from cycloning the enemies at fountain)
  - Sell to Lemm and head to the Nailsmith [5640]
  - Buy the first three nail upgrades and DG back [2590]
  - Head down the elevator shaft to White Defender
  - Fight White Defender (using Flukenest) {2100}
- 
-Colosseum of Fools
+
+## Colosseum of Fools
  - Head back to and set a DG in King's Station
  - Bench and swap charms to Shaman Stone + Spell Twister + Dream Wielder + overcharm Soul Eater
  - Head through the Tower of Love to the Colosseum
  - Do all three Trials (overcharmed; you can S&Q from Trial 2 and swap Soul Eater to Soul Catcher if you don't want to overcharm Trial 3) [7250]
- 
-Banishment
+
+## Banishment
  - After collecting Trial 3's geo, DG back to King's Station
  - Stag to Greenpath and bench (Change Charms to Shaman, Flukenest, Wielder, Twister)
  - Stag to Dirtmouth
@@ -318,8 +318,8 @@ Banishment
  - Rescue the grub above Baldur Shell (41)
  - Head to the Nightmare Lantern and banish the Grimm Troupe (just wait out the white screen)
  - Head to and grab Joni's Blessing and S&Q to Greenpath
- 
-Flower Quest & Queen's Gardens
+
+## Flower Quest & Queen's Gardens
  - Overcharm Flukenest and stag to Resting Grounds
  - Grab Dreamshield
  - If you don't have enough essence, get the whispering root
@@ -333,19 +333,19 @@ Flower Quest & Queen's Gardens
  - Deliver the flower but do not S&Q [3000]
  - Head up and rescue the top of QG grub (45; do not set a DG, which is faster anyway)
  - Fight Traitor Lord [>3100]
- - Dash Slash the frogs grub through the wall (46) 
+ - Dash Slash the frogs grub through the wall (46)
  - Collect the White Fragment from the White Lady and S&Q to Resting Grounds (unequip flukenest and twister)
  - Collect the Grey Mourner mask shard and DG to King's Station, call stag and move DG towards the exit while waiting
- 
-Shopping
+
+## Shopping
  - Stag to Dirtmouth and bench
  - Buy Wayward Compass from Iselda [2890]
  - Head down the well to Grubfather and collect the rest of the rewards (no piss break) [8450]
  - S&Q to Dirtmouth (equip strength and quick slash)
  - Collect Nailmaster's Glory from Sly
  - Exit and re-enter the shop to buy all of Sly's mask shards and charms, and the remaining vessel fragment [3350]
- 
-White Palace & Void Heart
+
+## White Palace & Void Heart
  - Collect Carefree Melody from Nymm
  - Stag to Hidden Station
  - Enter White Palace
@@ -357,16 +357,16 @@ White Palace & Void Heart
  - Head into Birthplace and grab the arcane egg
  - Complete the Void Heart cutscene
  - Collect Void Heart and DG to King's Station
- 
-Pure Nail & Godtuner
+
+## Pure Nail & Godtuner
  - Head past the fountain
  - Set a DG in front of the Waterways Entrance at Lemm and Sell to Lemm [4000]
  - Head to the Nailsmith and upgrade your Nail [0]
  - Head to Junk Pit and open the Godseeker's cocoon
  - Collect the Godtuner and enter Godhome, Open pantheons 1-3 (S&Q as soon as you lose control opening p3 chains)
  - Switch to your desired godhome build (flukenest, strength, shaman stone, steady body and quickslash optimally)
- 
-Embrace the Void
+
+## Embrace the Void
  - Complete Pantheons 1–4
  - Hit the lever above Pantheon 4, S&Q and head up to Pantheon 5
  - Complete Pantheon 5

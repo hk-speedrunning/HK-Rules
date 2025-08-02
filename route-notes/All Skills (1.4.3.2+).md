@@ -1,19 +1,19 @@
-All Skills 1.4.3.2+ Early Wraiths Route (By Yihou) (Written mostly by BrotherWildness)
+# All Skills 1.4.3.2+ Early Wraiths Route (By Yihou) (Written mostly by BrotherWildness)
 
-Vengeful Spirit
+## Vengeful Spirit
 - Don't lose time collecting geo
 - Skip False Knight
 - Usually 16-20 Geo after FK
 - Get VS
 
-Enter Greenpath
+## Enter Greenpath
 - +50 Mound Baldur
 - No Soul Catcher
 - +50 Greenpath Baldur
 - 115-120 Geo
 - Enter Greenpath
 
-Mothwing Cloak
+## Mothwing Cloak
 - Usual route through greenpath
 - First Moss Knight +43 Geo
 - Kill VFK +60-65 Geo
@@ -22,14 +22,14 @@ Mothwing Cloak
 - Buy Greenpath Stag (-140)
 - Beat Hornet, collect Cloak
 
-Mantis Claw
+## Mantis Claw
 - Save & Quit to Mound
 - Collect soul on the way to epogo
 - Do your desired epogo (or mantis safari)
 - Mantis pogo
 - Get Claw
 
-Howling Wraiths
+## Howling Wraiths
 - Leave Claw and head back through epogo room towards queen's station
 - Climb Fog Canyon
 - Go through autopilot room
@@ -37,7 +37,7 @@ Howling Wraiths
 - Do squit arena
 - Get Wraiths
 
-Enter Blue lake
+## Enter Blue lake
 - Save & Quit to Mound
 - Collect soul on the way
 - Need 6 hits of soul before Gruz Mother
@@ -50,7 +50,7 @@ Enter Blue lake
 - EQUIP SHAMAN STONE!
 - Shade skip to blue lake
 
-Gorgeous Husk
+## Gorgeous Husk
 - Don't go up to dreamnail
 - Optionally get 1 hit of soul from the flying husk sentry
 - Ride elevator down to city
@@ -61,7 +61,7 @@ Gorgeous Husk
 - Kill GHusk +400-440
 - End GHusk with full soul
 
-Enter Sanctum
+## Enter Sanctum
 - Object pogo into spire
 - Howling Wraiths the Great Husk Sentry through the floor 3x to kill him
 - Open the lever on your way up out of this room
@@ -69,7 +69,7 @@ Enter Sanctum
 - Fight Soul Twister
 - Enter Sanctum
 
-Desolate Dive
+## Desolate Dive
 - Open Lever to Soul Warrior
 - Fight Soul Warrior (+200 Geo)
 - Don't need to open shortcuts
@@ -78,14 +78,14 @@ Desolate Dive
 - Win
 - Collect Desolate Dive (you can heal before the spell pickup if you have the soul, you don't get a heal from the pickup)
 
-City Storerooms Stag
+## City Storerooms Stag
 - Get Soul Master geo chest (+380 geo)
 - Should have about 1200 Geo here
 - Exit sanctum left (collect soul but don't lose time to it)
 - Fireball the toll bench wall near cornifer and dash left a million times
 - Climb city storerooms and purchase stag (-200)
 
-Crystal Heart
+## Crystal Heart
 - do wiggles and firebell (don't fireball from too far away), exit room and reenter
 - 1 DOWN stag to dirtmouth
 - Open lever, bench in dirtmouth
@@ -99,7 +99,7 @@ Crystal Heart
 - Do damageless cycle unless you're confident/brave
 - Get Crystal Heart
 
-Descending Dark (Transition)
+## Descending Dark (Transition)
 - DON'T SAVE & QUIT
 - Cdash out of crystal heart room
 - Go down past crushers
@@ -109,18 +109,18 @@ Descending Dark (Transition)
 - Do buggy skip if you know the lure and have the health
 - Get DDark and exit crystal mound
 
-Dream Nail
+## Dream Nail
 - Go down to resting grounds
 - Cdash dream plats
 
-Cyclone Slash
+## Cyclone Slash
 - Save & Quit to dirtmouth
 - Buy elegant key from sly (-800 geo)
 - go left through king's pass
 - Up to Howling Cliffs
 - Get Cyclone Slash
 
-Shade Soul
+## Shade Soul
 - Save & Quit to dirtmouth
 - 1 UP stag to city storerooms
 - fall down the long storerooms room and cdash right
@@ -128,16 +128,16 @@ Shade Soul
 - Kill Soul Warrior 2, grab the geo
 - Open the lever before getting Shade Soul
 
-Watcher Knights (Transition)
+## Watcher Knights (Transition)
 - Leave Shade soul right, head to sanctum and then down to the long cdash hallway
 - Go up to watcher knights
 - break Chandelier
 - Kill Watchers
 
-King's Brand
+## King's Brand
 - Go up and get Lurien
 - Get Watcher Knight's geo chest +655 geo
-- 1400 geo at absolute minimum 
+- 1400 geo at absolute minimum
 - leave spire out the right towards king's station
 - Go to Kingdom's Edge
 - ACN skip
@@ -147,14 +147,14 @@ King's Brand
 - Dreamnail hornet after the fight, before talking to her
 - Get King's Brand
 
-Dash Slash
+## Dash Slash
 - go left then down past primal aspids
 - DDark through the dive floor
 - Get the geo rock +~40
 - Go down and right past the great hoppers
 - Buy Dash Slash -800
 
-Isma's Tear (Transition)
+## Isma's Tear (Transition)
 - Q/O of dash slash
 - ACN Climb
 - leave left towards king's station
@@ -164,7 +164,7 @@ Isma's Tear (Transition)
 - Do Hwurmp early control if you know it
 - Exit isma's the way you came
 
-Monarch Wings
+## Monarch Wings
 - Continue down to ancient basin
 - Buy Basin toll bench (-150)
 - Exit and enter room to animation skip
@@ -173,20 +173,20 @@ Monarch Wings
 - Beat broken vessel
 - Get Monarch Wings
 
-Shade Cloak
+## Shade Cloak
 - Save & Quit to toll bench
 - Head directly to Abyss
 - Right side abyss drop
 - Sibling climb and hit lighthouse lever
 - Get Shade Cloak, Save & Quit to skip animation
 
-Abyss Shriek
+## Abyss Shriek
 - Do early control (after selecting the save hold up and mash dreamnail)
 - Go all the way left
 - Get at least 3 hits of soul
 - Get shriek
 
-Great Slash
+## Great Slash
 - Tendinitis/Abyss Climb
 - Get 6 soul on the way
 - Fireball the wall before hidden station stag & firebell (-300 geo)
@@ -194,7 +194,7 @@ Great Slash
 - Go down towards Great Slash gauntlet
 - Do gauntlet, collect Great Slash
 
-Monomon
+## Monomon
 - Save & Quit
 - 1 UP Stag to Dirtmouth
 - Do cyclone slash early control in the well
@@ -206,7 +206,7 @@ Monomon
 - 1 Cycle uumuu - 3 shrieks lol
 - Collect Monomon
 
-Herrah
+## Herrah
 - Go to Queen's Gardens through "qga"
 - Do petra arena and hit thorns lever (collect geo to get to 250 if possible, if not get den rocks/kill devout)
 - Go down to long petra gauntlet
@@ -216,7 +216,7 @@ Herrah
 - Skip trapbench
 - Get Herrah
 
-Scream
+## Scream
 - Exit Beast Den
 - Buy Distant Village stag (do cdash bell) (-250 geo)
 - 2 DOWN stag to Dirtmouth
@@ -225,6 +225,6 @@ Scream
 - Don't need to bench
 - Break chains
 
-THK
+## THK
 - Start fight to the right of THK and open with a shriek
 - Shriek to win (shriek when facing right doesn't trigger parries)
