@@ -1,6 +1,6 @@
-Hollow Knight Any% 1221 NMG Route Notes
+# Hollow Knight Any% 1221 NMG Route Notes
 
-Vengeful Spirit
+## Vengeful Spirit
 - left from the well
 - Aspid arena (+10ish geo)
 - pass stag to False Knight
@@ -9,14 +9,14 @@ Vengeful Spirit
 - talk to Shaman + collect VS
 Geo should be around 15-20
 
-Enter Greenpath
+## Enter Greenpath
 - kill baldur + exit Ancestral Mound (+25 geo)
 - collect at least 6 soul climbing up to Greenpath
 - baldur quick kill (+50 geo)
 - fireball skip into Greenpath
 Geo should be around 90-95
 
-Mothwing Cloak
+## Mothwing Cloak
 - hold left
 - get up to at least 5 soul in the first Greenpath room
 - kill birds through the floor for an additional 2 soul
@@ -35,7 +35,7 @@ Mothwing Cloak
 - quitout back to Ancestral Mound
 Geo should be around 295-305
 
-Mantis Claw
+## Mantis Claw
 - enter Fungal Wastes through the bottom left of aspid arena
 - go right at the bottom of fungal drop
 - soul collection will vary depending on your epogo + mantis pogo strats. optimal places to collect soul are the bottom Sporg in the room before cloth, the first Sporg in the epogo room, the Funglings in the room after epogo, and the Shrumeling on the bottom route to the right of fungal drop
@@ -47,14 +47,14 @@ Mantis Claw
 - quitout back to Ancestral Mound
 Geo should be around 305-315
 
-Gruz Mother
+## Gruz Mother
 - collect 6 soul on the way to Gruz Mother (ie off the Aspid in Aspid arena, off the Vengeflies in the Goam rooms, off the Aspid below the stag, and/or off the Leaping Husk below the stag)
 - go through Aspid arena + Goam rooms to get to Crossroads stag + buy the toll (-50 geo)
 - drop down to Gruz Mother
 - kill Gruz Mother (+50 geo) and the babies (+14 geo)
 Geo should be around 320
 
-Dream Nail
+## Dream Nail
 - sit on the bench outside of Salubra
 - buy Shaman Stone (-220)
 - damage tank on the way to Sly's hut
@@ -65,7 +65,7 @@ Dream Nail
 - go up to the Dream Nail sequence and collect the Dream Nail
 Geo should be around 100
 
-Chandelier
+## Chandelier
 - Seer skip
 - go back to the transition below Xero
 - head to the right to enter City through the elevator
@@ -80,11 +80,11 @@ Chandelier
 - break the chandelier above the Watcher Knights
 Geo should be no less than 602 here, ideally 605+. If you're low you'll need to collect the optional geo later on the way to King's Station
 
-Watcher Knights
+## Watcher Knights
 - fight em !
 - go straight up to Lurien
 
-Enter Rafters
+## Enter Rafters
 - send elevator back down + start walljumping up to Lurien once you're able
 - get Lurien
 	- optionally do a dreamer quitout + dream nail early control
@@ -96,7 +96,7 @@ Enter Rafters
 - talk to Lemm
 Geo should be no less than 1257, ideally 1260+ (see above)
 
-Lumafly Lantern
+## Lumafly Lantern
 - perform Rafters Skip
 	- can substitute right side rafters with left side, or left side with the elevator on the far left side of the room
 - collect the Hallownest Seal at the top of the rafters
@@ -111,7 +111,7 @@ Lumafly Lantern
 - buy the Lumafly Lantern from Sly (-1800 geo)
 Geo should be no less than 257, ideally 260+. If you're low you'll need to collect the optional geo rock leaving Herrah
 
-Crystal Heart
+## Crystal Heart
 - take the stag to Crossroads
 - enter Crystal Peak through the dark room. buy the toll (-50 geo) to get through
 - head straight up toward Quirrel's lookout, then to the right and down to the Crystal Heart Gauntlet
@@ -119,7 +119,7 @@ Crystal Heart
 - quitout back to Dirtmouth
 Geo should be no less than 207, ideally 210+ (see above)
 
-Uumuu
+## Uumuu
 - head down the well, to the left, down the Gruzzer drop, and leave the Cornifer room through the bottom left exit
 - head to the left until you get to the acid pool
 - perform FCA skip
@@ -129,7 +129,7 @@ Uumuu
 - double dream nail Uumuu at the beginning of the fight
 - pray
 
-Enter Queen's Gardens
+## Enter Queen's Gardens
 - exit the Uumuu arena through the right gate
 - use gate WCS to clear the acid at the bottom of the drop
 	- can substitute with a CDash off the right wall
@@ -142,7 +142,7 @@ Enter Queen's Gardens
 	- collect 2 more hits of soul off the first two jellies after the breakable wall
 - perform QGA skip
 
-Trap Bench
+## Trap Bench
 - CDash into and across the first room, stopping to hit the Mossfly
 - CDash again until you're below the Bluggsac. get an extra hit off the spiny husk if it's on the left
 - CDash a final time off the wall above the spiny husk into the next room
@@ -155,7 +155,7 @@ Trap Bench
 - head left toward Distant Village
 - sit on the Trap Bench
 
-Herrah
+## Herrah
 - quitout once you've landed after breaking the webs, then do a quitout + cdash early control to refresh your health
 	- den quitout is almost always recommended for its risk/reward, but can optimally be skipped if you've got 4 masks entering den
 - perform Devout Skip
@@ -165,7 +165,7 @@ Herrah
 - get Herrah
 Geo should be at least 250. If you have any fewer you'll need the geo rock to the right of Herrah
 
-Scream
+## Scream
 - head to the breakable floor to Herrah's right to exit
 	- if needed, collect the geo rock to the right of the breakable floor
 - head to the left, over the Devout, and down to exit Beast's Den
@@ -176,5 +176,5 @@ Scream
 	- you'll be auto-assigned to the bench outside the arena when you pass it, so don't stop to sit on it!
 - break THK's chains
 
-The Hollow Knight
+## The Hollow Knight
 - win !
