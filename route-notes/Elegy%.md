@@ -114,7 +114,7 @@
 -   Grub Waterways Hwurmps
 -   Grub Hive External
 
-Kingdom’s Edge
+## Kingdom’s Edge
 
 -   Head to Oro and bench
 -   Grub Kingdom’s Edge Oro then quit out
