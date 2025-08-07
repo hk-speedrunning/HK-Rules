@@ -3,7 +3,7 @@
 Violations of the below Code of Conduct should be reported either via the [Community Feedback form](https://docs.google.com/forms/d/1XZBDvGQTw84Lf5958KEqcoPzQMyunNttoR7MiVqbbgs) or by directly contacting a member of the SRC mod team on Discord:
 
 ```
-@homothety, @nerfirelia73, @staxis, @mayonnaisical, @manicjamie, @constructivecynicism, @paum
+@nerfirelia73, @staxis, @manicjamie, @constructivecynicism, @paum, @lep19, @isnialan, @duuscarlet
 ```
 
 All reports will be reviewed as promptly as we are able to; however, keep in mind that these issues can take time for us to discuss, gather information on, and handle.
