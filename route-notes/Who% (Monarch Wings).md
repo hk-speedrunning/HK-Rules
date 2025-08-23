@@ -1,34 +1,34 @@
-Who% nmg route notes
+# Who% nmg route notes
 
 The wings route is faster but harder, with an unforgiving skip at the end. The cdash route is slower but way easier
 
-################# Wings route
-Crossroads
+## Wings route
+### Crossroads
 - Any% to Vengeful Spirit
 - *Optional* Soul catcher (with early control)
 
-Greenpath
+### Greenpath
 - Any% Mothwing Cloak
 
-Fungal Wastes
+### Fungal Wastes
 - Any% Mantis Claw
 
-Deepnest Part 1
+### Deepnest Part 1
 - Head to Deepnest through Spore Shroom
 - Deepnest Spa Bench
 - Darkrooms to Tram Pass
 - Save Quit
 
-Ancient Basin
+### Ancient Basin
 - Enter Basin through Tram
 - Slopeball to Broken Vessel
 - Monarch Wings
 - Save Quit
 
-Deepnest Part 2
+### Deepnest Part 2
 - Darkrooms to Queen's Gardens
 
-Who tf is Jony
+### Who tf is Jony
 - *Optional* Buy Queen's Gardens Toll Bench
 - QG Arena
 - Wings Skip to Jony Grub
@@ -36,17 +36,17 @@ Who tf is Jony
 
 
 
-################# Cdash route
-Crossroads
+## Cdash route
+### Crossroads
 - Any% to Vengeful Spirit
 
-Greenpath
+### Greenpath
 - Any% (vfk, no mossknights) Mothwing Cloak
 
-Fungal Wastes
+### Fungal Wastes
 - Any% Mantis Claw
 
-Enter City
+### Enter City
 - Save Quit to Mound
 - Buy Crossroads Stag and Bench there
 - Kill Gruz Mother
@@ -57,7 +57,7 @@ Enter City
 - Go back to Salubra and Shade Skip to Blue Lake
 - Go through Resting Grounds to King's Station
 
-City of Tears
+### City of Tears
 - *Optional* Get Any% Journal if you want QG Toll Bench later
 - Get King's Station Seal (DON'T Bench)
 - Kill GHusk
@@ -66,7 +66,7 @@ City of Tears
 - Sell to Lemm
 - Save Quit
 
-Crystal Peak
+### Crystal Peak
 - Stag to Dirtmouth
 - Buy Lantern
 - Save Quit to Crossroads
@@ -74,13 +74,13 @@ Crystal Peak
 - Any% Peak to CDash
 - Save Quit to Crossroads
 
-Enter QG
+### Enter QG
 - Go through bottom Crossroads in reverse
 - FCA to enter Fog Canyon
 - Go Past Archives
 - QGA to Enter QG
 
-Queen's Garden
+### Queen's Garden
 - Any% QG until the Toll Bench
 - *Optional* Buy Queen's Gardens Toll Bench
 - QG Arena

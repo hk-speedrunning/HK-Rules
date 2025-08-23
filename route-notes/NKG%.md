@@ -1,6 +1,8 @@
+# NKG%
+
 [Route notes for NKG%]
+
 [Notes by mathulu, edited by Zonk, routed for All Memes Marathon, 1/11/23]
-[compatible with split notes]
 
 ### Vengeful Spirit
 - Normal KP

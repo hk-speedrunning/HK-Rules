@@ -4,9 +4,9 @@
 
 1221 and LP have different geo values, mostly due to lever skipping past certain enemies. To make up for this: 1221 - Grabs Sanctum chest, geo is rarely an issue LP - Skips chest but gets a rock in edge (if necessary) and focuses on getting geo in arenas
 
-> Isma’s Tear: Picking up Isma’s is optional, but it’s a bit slower.
-> There is no difference in the route whether you pick it up or not, so
-> if the route says “acid skip” just do it with Isma’s.
+- Isma’s Tear: Picking up Isma’s is optional, but it’s a bit slower.
+- There is no difference in the route whether you pick it up or not, so
+- if the route says “acid skip” just do it with Isma’s.
 
 ## Vengeful Spirit
 -   Kill False Knight, city crest & geo chest
@@ -28,16 +28,16 @@
 
 - Head up to sanctum
 
-> Patch differences:
->	1221 – Lever skip to Sanctum 
->	LP – While going around, kill the heavy sentry and husk sentry for ~20 geo
+- Patch differences:
+    - 1221 – Lever skip to Sanctum
+    - LP – While going around, kill the heavy sentry and husk sentry for ~20 geo
 -   Save the elevator grub
 
 ## Soul Sanctum
 
-> Patch differences: 
-> 1221 – Lever skip and open all the levers, send the elevators in Sanctum up  
->  LP – Kill Soul Warrior, levers and elevators don’t matter
+- Patch differences:
+    - 1221 – Lever skip and open all the levers, send the elevators in Sanctum up
+    - LP – Kill Soul Warrior, levers and elevators don’t matter
 
 -   Spell Twister with early control
 -   Get dive
@@ -47,9 +47,9 @@
 -   Pick up chest on 1221, otherwise ignore
 -   Grub Fake Dive (or backup on 1221)
 
-> Patch Differences:
-> 1221 – Go back up the way you came to avoid fighting Soul Warrior again 
-> LP – Dive through the floor to the Soul Warrior room
+- Patch Differences:
+    - 1221 – Go back up the way you came to avoid fighting Soul Warrior again
+    - LP – Dive through the floor to the Soul Warrior room
 -   Buy and use city toll bench (keep for a while)
 
 ## Enter Peaks

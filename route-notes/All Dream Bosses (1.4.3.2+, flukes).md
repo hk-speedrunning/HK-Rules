@@ -1,6 +1,6 @@
-All Dream Bosses LP (with flukes)
+# All Dream Bosses LP (with flukes)
 
-Route:
+## Route
 - crossroads stag, vs, city crest, catcher, bench {catcher}
 - vfk, one mossknight, gp stag, dash, s&q
 - bench at leg eater, claw, bretta, s&q {catcher,dm}
@@ -37,6 +37,6 @@ Route:
 - stag dirtmouth, NKG, bench dm {wielder,twister,shaman}
 - thk, radiance
 
-Notes:
+## Notes:
 - the geo requirement before buying storerooms stag is tight unless you don't do the slopeball to skip baldur shell, in that case you get 45 more geo from the baldur.
 - there is a "safety" route where you get nail2 before WK. To afford that, you get Cornifer idol in peak and Nightmare lantern journal, and sell them before waterways. Then you go to nailsmith right before spire
