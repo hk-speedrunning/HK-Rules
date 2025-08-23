@@ -1,8 +1,8 @@
-[All Acheivements Route Notes by mathulu, 9/1/2022]
+# All Acheivements Route Notes by mathulu, 9/1/2022
 
-[This run is a beast of a speedrun, clocking in over 6 hours at time of writing these notes. It requires two separate save files, one of which is done on Steel Soul mode and gets 112% completion. It is not for the faint of heart. Be warned]
+This run is a beast of a speedrun, clocking in over 6 hours at time of writing these notes. It requires two separate save files, one of which is done on Steel Soul mode and gets 112% completion. It is not for the faint of heart. Be warned
 
-[First save file of the run gets the Banishment achievement, as well as Purity, Neglect, and the any% ending (The Hollow Knight)]
+First save file of the run gets the Banishment achievement, as well as Purity, Neglect, and the any% ending (The Hollow Knight)
 
 [Geo counts are running totals, as are grubs and Pale Ore]
 ### Vengeful Spirit
@@ -91,7 +91,7 @@
 ### Elegant Key
 - S+Q to Crossroads stag, call stag
 - Take upper route to Gruz
-- Save Crossroads Spike grub (13) 
+- Save Crossroads Spike grub (13)
 - Kill Gruz mother
 - Purchase Shaman stone (~850 geo)
 - Save Sly
@@ -436,7 +436,7 @@
 - *Wandering Husk (5/35), Horned Husk (6/35) and Husk Bully (5/35) outside Sly*
 - *Kill Gruz Mother (1/3)*
 - Spike Grub
-- *Kill 3 Aspid mothers (3/15), 2 Husk warriors (2/10), and the Husk Guard (2/6) on the way back to Crossroads stag* 
+- *Kill 3 Aspid mothers (3/15), 2 Husk warriors (2/10), and the Husk Guard (2/6) on the way back to Crossroads stag*
 - Stag to Dirtmouth
 - Buy Ekey, S+Q
 
@@ -606,7 +606,7 @@
 - Cpeaks Mimic Grub *+ Kill Mimic (1/5) and 2 Crystal Hunters (8/20)*
 - Cpeaks Grimmkin
 - *Kill Glimmback above Cornifer by re-entering room until entry is done (~3 reloads)*
-- Set DGate above Deep Focus 
+- Set DGate above Deep Focus
 - *Kill Husk Miner (16/20) outside Deep Focus*
 - Deep Focus
 
@@ -760,7 +760,7 @@
 	- *2 Shrumelings (13/20) above Grimmkin, 2 Shrumal Warriors (11/20) and 1 Shrumeling (14/20) below*
 - Kill Grimmkin
 - Collect Fungal Core Mask Shard (6), S+Q
-	
+
 # Mantis Lords
 - S+Q from Mask Shard
 - Dreamgate back to root room
@@ -1052,7 +1052,7 @@
 ### Trial of the Warrior
 - All of colo 1
 
-	
+
 ### Trial of the Conqueror
 - All of colo 2
 
