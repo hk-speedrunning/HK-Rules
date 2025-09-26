@@ -1,147 +1,177 @@
 # Kornk%
-Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the first place), reroutes by Ff300
+
+Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the first place), reroutes by Ff300, major early game reroutes by Rekcah
 
 ## General remarks:
-- use benchwarp, s+q is slower!!! And don't forget to set a kb shortcut to warp
-- notes use \[stag\] (levers) {geo}
-- route requires a bit of incidental geo. The only two points where you should really check your geo are:
-  * before King Station, kill enemies above ks if you have less than 300 geo
-  * when you go to basin you need 450 geo, but your last chance to get them is hw*rmp arena
-  * more detailed (but a bit outdated for lategame) geo count here: https://drop.rixx.de/qQl/
-- if you want, you can get ddark after the last peak lever (it's roughly 20s slower but makes bosses easier, get chest lever first and grub lever after)
 
-### Early game
-- kill False Knight
-- no city crest nor the geo chest (you'll get the geo later when you have dash)
-- get vs and the first lever (1)
-- go through greenpath
-- skip vfk, do moss knights {310}
-- go to hornet, but go down past greenpath stag first for lever (2)
-- get dash, benchwarp
+* Use benchwarp, s+q is slower!!! And don't forget to use hotkeys to warp
+* Notes use \[stag] (levers) {geo}
+* Route should not require killing extra enemies for geo or anything like that.
+* If you want, you can get ddark before dream nail (it's roughly 5-10s slower but makes bosses easier)
 
-### True Ending simulator
-- go past false knight, get geo chest {510}
-- buy crossroads stag
-- buy and equip shaman {290}
-- die, free sly, shade skip
-- get dream nail (3)
-- \[1U\] take stag to crossroads (4)
+### Vengeful Spirit
 
-### Fungal time
-- get shrumal ogres {390} charm notch and hit the lever (5)
-- Elder Hu
-- get claw (6)
-- open mantis lords (7)
-- go up and left (8)
-- pick up paum relic (journal) and get the lever (9)
-- go to queen stag, get mask shard lever (10)
-- buy queen's stag {270}
+* Get well rock {22}, geo from aspid arena {35-40}, and 2nd rock in goam room {50}
+* Buy Crossroads stag
+* Kill False Knight
+* Collect both city crest and geo chest {210}
+* Get vs and the first lever (1)
 
-### City time
-- \[1D\] stag to resting grounds, beat up Xero
-- continue down to city, kill enemies to get 300 geo {300}
-- buy king's station stag
-- get king's station seal
-- hit fountain lever (11)
-- go back to the right and up into spire
-- kill great husk sentry (12)
-- continue up (13) and left (14)
-- go down to lemm (15 + 16), sell everything {750}
-- go up through dlc room (17 + 18)
+### Mothwing Cloak
 
-### Sanctum
-- enter sanctum, hit mini hellroom lever (19)
-- kill soul warrior, hit lever (20)
-- hit hell room lever (21)
-- get dive
-- get chest, hit levers {1380} (22 + 23)
-- dive into soul warrior arena and go right for another lever (24)
-- buy sanctum toll bench {1200}
-- walk to storerooms (25)
-- get simple key
-- \[2U\] buy stag, bench, stag to crossroads {1030}
+* Go through Greenpath {360}
+* Skip vfk and moss knights
+* Go down past greenpath stag for lever (2)
+* Fight Hornet and get dash, benchwarp
 
-### Peak
-- go up to dive entrance (26)
-- get spike tunnel grub (27)
-- grab shop key
-- continue up/right, then down for three levers (30)
-- get cdash
-- continue left for crusher grub (31)
-- continue down and circle around for pointless lever (32)
-- go through crushers, down to rescue a grub (34)
-- up again and finish the crushers for chest lever (33)
-- OPTIONAL: get ddark
-- benchwarp
-- call stag, then go to fungal to hit bridge levers (35 + 36)
-- benchwarp again
-- \[3U\] stag to dirtmouth (37)
-- buy elegant key, benchwarp
+### Fungal Wastes
 
-### City, again
-- bench at sanctum toll bench
-- kill soul warrior 2, get geo
-- get the lever, then shade soul (38)
-- soul tyrant, benchwarp
-- go down to waterways, use the simple key
-- bench at waterways dive bench
-- take bottom route to hw*rmp arena lever (39) {at least 450 geo}
-- get to mantis village
-- get three levers on the left on the way down (42)
-- get the one above mantis lords (43)
-- fight mantis lords
-- get one more lever on the right (44)
-- enter the reward room for another lever (45)
-- benchwarp
-- dung defender + lever (46)
-- spike tunnel to get stepped upon (Emilitia) (47)
+* Head down into Fungal Wastes and bench at Leg Eater
+* Head to and collect Mantis Claw (3)
+* Open Mantis Lords lever and benchwarp (4)
+* Kill Shrumal Ogres and get charm notch {450}
+* Get Paum relic lever, do NOT pick up the journal (5+6)
+* Get Sporg seal
+* Go to Queen's Station and get mask shard lever (7)
+* Buy Queen's Station and benchwarp {330}
+* Head right toward city
+* Hit first lever on bridge to city gate (8)
 
-### Back to True Ending simulator
-- drop to basin, get toll bench and bench there {300}
-- broken vessel, lost kin, wings
-- benchwarp
-- \[1U\] buy hidden station, stag to resting grounds
-- bench, grab dgate, benchwarp, equip dream wielder
-- \[1U\] stag to king station, set dgate
-- acid skip and fight hornet 2
-- go to upper KE room to hit tower of love lever (48)
-- dgate back to king station
-- \[2D\] stag to hidden station, get shade cloak (49)
-- dgate out, bench at king station
-- lower KE to markoth, benchwarp
+### City of Tears
 
-### At least the screen is green
-- \[2U\] stag to queen station, bench there
-- \[2U\] stag to dirtmouth, cdash to peak elevator for shoutouts (50)
-- benchwarp and enter queen's gardens (qga or wraiths entrance)
-- hit wraiths lever (51)
-- set dream gate before deepnest
-- petra arena + lever (52)
-- up to qg arena
-- open the upper qg lever (53)
-- turn back to frogs
-- kill marmu
-- qg stag lever (54)
-- dgate back
+* Hit second lever on bridge after opening city gate (9)
+* Grab rafters seal and sell to Lemm (hit lever) {1230} (10)
+* Head through DLC rooms to Sanctum, getting both mandatory levers (11+12)
+* Fight Soul Warrior {1440} (13)
+* Hit both levers on the way to Soul Master (14+15)
+* Fight Soul Master and collect Desolate Dive
+* Get the geo chest and both levers {1820} (16+17)
+* Dive into soul warrior arena and go right for another lever (18)
+* Buy sanctum toll bench {1670}
+* Get storerooms lever and key (19)
+* \[2U] Buy storerooms stag, stag to crossroads {1470}
 
-### Deepnest intermission
-- go through darkrooms to galien
-- kill galien
-- up and right to tram pass, hit both levers (55 + 56)
-- benchwarp to queen station
+### Crystal Heart
 
-### Awoken dnail
-- \[1U\] stag to crossroads, bench
-- Failed Champion, benchwarp
-- \[3U\] stag to resting grounds, bench
-- collect remaining essence from tree and wake your dnail, benchwarp
-- \[1D\] stag to hidden station, enter white palace
+* Enter peak through dive entrance (20)
+* Get spike tunnel grub lever (21)
+* Grab shopkeeper's key
+* Get 3 levers in sub 9 room (22+23+24)
+* Get Crystal Heart
+
+### Dream Nail
+
+* Go left to get crushers grub lever (25)
+* Go down for pointless lever (try to get soul) (26)
+* Go down through crushers to get all skills grub lever (27)
+* Go back up to get chest lever, get chest unless you're over 1520 {1550} (28)
+* Go back down and go through dark room to dream nail
+
+### Xero
+
+* Seer skip, open RG stag and bench (29)
+* Go down and left through crypts, then up to Xero (30)
+* Kill Xero and collect the essence
+
+### Elegant Key
+
+* Go through Blue Lake to Salubra and buy Shaman Stone {1330}
+* Save sly and benchwarp
+* \[1D] Stag to Dirtmouth (31), buy Elegant Key, and warp {530}
+
+### Soul Tyrant
+
+* Equip Shaman Stone
+* Go down through crypts and any% journal room to buy King's Station {230}
+* Go left and open fountain lever (32)
+* Kill great husk sentry (make sure to have at least 230 geo here) (33)
+* Continue up (34) and left across bridge (35)
+* Go up toward Sanctum, leaving pre-sanctum elevator down.
+* Bench at toll bench and go toward Shade Soul (leave elevator up)
+* Kill Soul Warrior {430}, get lever (36) and Shade Soul, then benchwarp
+* Go right/up from sanctum entrance to Soul Tyrant, warp after getting essence
+
+### Mantis Lords
+
+* Go down to waterways, hitting the lever above Lemm on the way down (37)
+* Use the simple key to enter waterways and bench at the dive bench
+* Take bottom route to hwurmp area (last chance to get geo) {450} (38)
+* Go to mantis village toward mantis lords
+* Get lever on top left and two levers on the left on the way down (39+40+41)
+* Fight mantis lords
+
+### Elder Hu
+
+* Hit 2 levers on the right on way to rewards room (42+43)
+* Enter the reward room for another lever, then immediately leave (44)
+* Climb out of mantis village, then go left to get bouncy grub lever (45)
+* Climb back up/right (through breakable wall shortcut) toward Hu
+* Kill Elder Hu and get essence, then benchwarp
+
+### Monarch Wings
+
+* Kill Dung Defender and get lever (46)
+* Go through spike tunnel to get stepped upon (Emilitia) (47)
+* Drop to basin, get toll bench and bench there {300}
+* Fight Broken Vessel and Lost Kin, get wings, benchwarp
+
+### King's Brand
+
+* \[1U] Buy Hidden Station and stag to resting grounds
+* Bench, grab dream gate, benchwarp
+* \[1U] Equip wielder, stag to King's Station, set dgate
+* Acid skip and fight Hornet 2, get King's Brand
+
+### Shade Cloak
+
+* Go toward upper KE room to hit Tower of Love lever (48)
+* Dreamgate back to King's Station
+* \[2D] Stag to Hidden Station, go down and get shade cloak (49)
+
+### Markoth
+
+* Dreamgate out, bench at King's Station
+* Go through lower KE to fight markoth and get essence, benchwarp
+
+### Queen's Gardens Arena
+
+* \[2U] Stag to Queen's Station and bench there
+* \[2U] Stag to Dirtmouth, Cdash to peak elevator and hit lever (50)
+* Benchwarp and enter Queen's Gardens through QGA (or wraiths entrance, 8s slower)
+* Go up and hit wraiths lever then come back down (51)
+* Petra arena + lever (52)
+* Set dgate at the end of petra gauntlet
+* Go up to QG arena
+
+### Marmu
+
+* Open the upper QG lever (53)
+* Turn back to frogs
+* Kill marmu and collect essence
+* QG stag lever (54)
+* Dreamgate back
+
+### Deepnest
+
+* Go down/right/up through darkrooms to Galien
+* Kill galien and collect essence
+* Up and right to tram pass, hit both levers (55 + 56)
+* Benchwarp to Queen's Station (no need to collect tram pass)
+
+### Enter White Palace
+
+* \[1U] Stag to Crossroads, bench
+* Fight Failed Champion, benchwarp
+* \[3U] Stag to Resting Grounds, bench
+* Collect remaining essence from RG root and get Woke Nail, benchwarp
+* \[1D] Stag to Hidden station, enter White Palace
 
 ### White Palace
-- kill the second kingsmould for (57)
-- do left atrium (58 + 59)
-- bench in atrium
-- do right atrium (60 + 61)
-- go to balcony, ignore the bench, get (62)
-- benchwarp, enter path of pain
-- KRONK (63)
+
+* Kingsmould skip, hit lever (57)
+* Left atrium (58 + 59)
+* Bench in atrium
+* Do right atrium (60 + 61)
+* Go to balcony, fireball the Path of Pain entrance, get lever (62)
+* Benchwarp, enter Path of Pain
+* KRONK (63)
