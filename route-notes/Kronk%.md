@@ -49,7 +49,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Dive into soul warrior arena and go right for another lever (18)
 * Buy sanctum toll bench {1670}
 * Get storerooms lever and key (19)
-* \[2U] Buy storerooms stag, stag to crossroads {1470}
+* \[2D] Buy storerooms stag, stag to crossroads {1470}
 
 ### Crystal Heart
 
