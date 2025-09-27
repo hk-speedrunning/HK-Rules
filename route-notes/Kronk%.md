@@ -160,10 +160,10 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Enter White Palace
 
-* \[1U] Stag to Crossroads, bench
+* \[3D] Stag to Resting Grounds, bench
+* \[3D] Stag to Forgotten Crossroads
 * Fight Failed Champion, benchwarp
-* \[3U] Stag to Resting Grounds, bench
-* Collect remaining essence from RG root and get Woke Nail, benchwarp
+* Hit bell, collect remaining essence from RG root and get Woke Nail, benchwarp
 * \[1D] Stag to Hidden station, enter White Palace
 
 ### White Palace
