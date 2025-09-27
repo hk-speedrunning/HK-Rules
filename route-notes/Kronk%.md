@@ -173,5 +173,5 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Bench in atrium
 * Do right atrium (60 + 61)
 * Go to balcony, fireball the Path of Pain entrance, get lever (62)
-* Benchwarp, enter Path of Pain
+* Benchwarp, swap shaman for dashmaster, enter Path of Pain
 * KRONK (63)
