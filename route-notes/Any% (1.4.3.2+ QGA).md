@@ -35,11 +35,9 @@
 ## Chandelier/Watcher Knights
 - Seer skip (worth even if you fail)
 - head back left and down, take elevator to City
-- collect journal above King’s Station
-- head to King’s Station, pick up seal (optional bench)
-- head left, kill Gorgeous Husk + followers (+460 or so)
-- head left, open lever in fountain room
-- object pogo up to Watcher’s Spire
+- kill the enemies guarding the journal (+50 geo) and collect the journal
+- head down and left, kill Gorgeous Husk + followers (+460 or so)
+- head left, object pogo up to Watcher's Spire
 - kill Great Husk Sentry (optional bench before), head right and up (+50)
 - have 3 hits of soul before Watcher Knights, head up to arena
 - fireball to break ceiling, drop the chandelier
@@ -48,8 +46,11 @@
 ## Lumafly Lantern
 - head up to Lurien without getting rewards
 - kill Lurien
-- head back down, pick up geo chest and seal, head down and left to bridge
-- head down, talk to Lemm outside fountain, then sell to him (+1100)
+- head back down, pick up geo chest and seal, head down to the bottom of Spire
+- go left, open fountain lever and talk to Lemm
+- keep going left into rafters
+- do your favourite flavour of rafters skip, pickup rafters seal
+- head right and sell to Lemm (+1100)
 - head back right to King’s Station (you want about 2320 geo by now, which you can reach by killing the enemies below Spire or by the fountain lever; shouldn’t be much below that number, the rest of your geo comes from devouts)
 - open King’s Station, lookdown/firebell to get stag earlier, stag to Dirtmouth
 - open Dirtmouth stag lever, bench, head to Sly and buy Lantern
