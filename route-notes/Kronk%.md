@@ -15,7 +15,8 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Buy Crossroads stag
 * Kill False Knight
 * Collect both city crest and geo chest {210}
-* Get vs and the first lever (1)
+* Get vs
+* Go through mound and get soul catcher; equip it and get the first lever (1)
 
 ### Mothwing Cloak
 
@@ -29,27 +30,29 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Head down into Fungal Wastes and bench at Leg Eater
 * Head to and collect Mantis Claw (3)
 * Open Mantis Lords lever and benchwarp (4)
+* Swap catcher for dashmaster
 * Kill Shrumal Ogres and get charm notch {450}
-* Get Paum relic lever, do NOT pick up the journal (5+6)
+* Get Paum relic lever and journal (5+6)
 * Get Sporg seal
 * Go to Queen's Station and get mask shard lever (7)
 * Buy Queen's Station and benchwarp {330}
-* Head right toward city
+* Re-equip catcher and right toward city
 * Hit first lever on bridge to city gate (8)
 
 ### City of Tears
 
 * Hit second lever on bridge after opening city gate (9)
-* Grab rafters seal and sell to Lemm (hit lever) {1230} (10)
+* Grab rafters seal and sell to Lemm (hit lever) {1430} (10)
 * Head through DLC rooms to Sanctum, getting both mandatory levers (11+12)
-* Fight Soul Warrior {1440} (13)
+* Fight Soul Warrior {1640} (13)
 * Hit both levers on the way to Soul Master (14+15)
+* Get Spell Twister
 * Fight Soul Master and collect Desolate Dive
-* Get the geo chest and both levers {1820} (16+17)
+* Get the geo chest and both levers {2020} (16+17)
 * Dive into soul warrior arena and go right for another lever (18)
-* Buy sanctum toll bench {1670}
+* Buy sanctum toll bench {1870}
 * Get storerooms lever and key (19)
-* \[2D] Buy storerooms stag, stag to crossroads {1470}
+* \[2D] Buy storerooms stag, stag to crossroads {1670}
 
 ### Crystal Heart
 
@@ -64,7 +67,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Go left to get crushers grub lever (25)
 * Go down for pointless lever (try to get soul) (26)
 * Go down through crushers to get all skills grub lever (27)
-* Go back up to get chest lever, get chest unless you're over 1520 {1550} (28)
+* Go back up to get chest lever, get chest {1750} (28)
 * Go back down and go through dark room to dream nail
 
 ### Xero
@@ -75,20 +78,21 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Elegant Key
 
-* Go through Blue Lake to Salubra and buy Shaman Stone {1330}
+* Go through Blue Lake to Salubra and buy Shaman Stone, Steady Body, and 1 Notch {1310}
 * Save sly and benchwarp
-* \[1D] Stag to Dirtmouth (31), buy Elegant Key, and warp {530}
+* \[1D] Stag to Dirtmouth (31), buy Elegant Key, and warp {510}
 
 ### Soul Tyrant
 
-* Equip Shaman Stone
-* Go down through crypts and any% journal room to buy King's Station {230}
+* Swap to Shaman Stone + Dashmaster
+* Go down through crypts and any% journal room to buy King's Station {210}
 * Go left and open fountain lever (32)
-* Kill great husk sentry (make sure to have at least 230 geo here) (33)
+* Kill great husk sentry with dive (make sure to have at least 230 geo here) (33)
 * Continue up (34) and left across bridge (35)
 * Go up toward Sanctum, leaving pre-sanctum elevator down.
 * Bench at toll bench and go toward Shade Soul (leave elevator up)
 * Kill Soul Warrior {430}, get lever (36) and Shade Soul, then benchwarp
+* Swap to Shaman Stone + Twister
 * Go right/up from sanctum entrance to Soul Tyrant, warp after getting essence
 
 ### Mantis Lords
@@ -117,9 +121,10 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### King's Brand
 
+* Swap to Shaman Stone + Dashmaster
 * \[1U] Buy Hidden Station and stag to resting grounds
 * Bench, grab dream gate, benchwarp
-* \[1U] Equip wielder, stag to King's Station, set dgate
+* \[1U] Swap dashmaster for wielder, stag to King's Station, set dgate
 * Acid skip and fight Hornet 2, get King's Brand
 
 ### Shade Cloak
@@ -135,6 +140,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Queen's Gardens Arena
 
+* Swap to Shaman + dashmaster
 * \[2U] Stag to Queen's Station and bench there
 * \[2U] Stag to Dirtmouth, Cdash to peak elevator and hit lever (50)
 * Benchwarp and enter Queen's Gardens through QGA (or wraiths entrance, 8s slower)
@@ -160,10 +166,12 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Enter White Palace
 
+* Swap to Shaman + Wielder
 * \[3D] Stag to Resting Grounds, bench
 * \[3D] Stag to Forgotten Crossroads
 * Fight Failed Champion, benchwarp
 * Hit bell, collect remaining essence from RG root and get Woke Nail, benchwarp
+* Swap to Shaman + Dashmaster
 * \[1D] Stag to Hidden station, enter White Palace
 
 ### White Palace
