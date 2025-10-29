@@ -29,7 +29,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 * Head down into Fungal Wastes and bench at Leg Eater
 * Head to and collect Mantis Claw (3)
-* Open Mantis Lords lever and benchwarp (4)
+* Open Mantis Lords lever and get dashmaster; benchwarp (4)
 * Swap catcher for dashmaster
 * Kill Shrumal Ogres and get charm notch {450}
 * Get Paum relic lever and journal (5+6)
