@@ -72,7 +72,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Xero
 
-* Seer skip, open RG stag and bench (29)
+* Seer skip, open RG stag and bench (swap catcher for twister), then firebell (29)
 * Go down and left through crypts, then up to Xero (30)
 * Kill Xero and collect the essence
 
