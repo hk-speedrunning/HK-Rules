@@ -80,7 +80,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 * Go through Blue Lake to Salubra and buy Shaman Stone, Steady Body, and 1 Notch {1310}
 * Save sly and benchwarp
-* \[1D] Stag to Dirtmouth (31), buy Elegant Key, and warp {510}
+* \[1D] Unequip Twister, stag to Dirtmouth (31), buy Elegant Key, and warp {510}
 
 ### Soul Tyrant
 
