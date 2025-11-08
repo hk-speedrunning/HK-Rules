@@ -108,7 +108,8 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 * Hit 2 levers on the right on way to rewards room (42+43)
 * Enter the reward room for another lever, then immediately leave (44)
-* Climb out of mantis village, then go left to get bouncy grub lever (45)
+* Climb out of mantis village and get 3 essence from the whispering root
+* Go left to get bouncy grub lever (45)
 * Climb back up/right (through breakable wall shortcut) toward Hu
 * Kill Elder Hu and get essence, then benchwarp
 
@@ -170,7 +171,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * \[3D] Stag to Resting Grounds, bench
 * \[3D] Stag to Forgotten Crossroads
 * Fight Failed Champion, benchwarp
-* Hit bell, collect remaining essence from RG root and get Woke Nail, benchwarp
+* Hit bell, get Woke Nail, benchwarp
 * Swap to Shaman + Dashmaster
 * \[1D] Stag to Hidden station, enter White Palace
 
