@@ -11,9 +11,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Vengeful Spirit
 
-* Get well rock {22}, geo from aspid arena {35-40}, and 2nd rock in goam room {50}
-* Buy Crossroads stag
-* Kill False Knight
+* Kill False Knight (no crossroads stag)
 * Collect both city crest and geo chest {210}
 * Get vs
 * Go through mound and get soul catcher; equip it and get the first lever (1)
@@ -52,7 +50,9 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Dive into soul warrior arena and go right for another lever (18)
 * Buy sanctum toll bench {1870}
 * Get storerooms lever and key (19)
-* \[2D] Buy storerooms stag, stag to crossroads {1670}
+* Buy storerooms elevator, go right then up toward crossroads stag {1720}
+* Buy crossroads stag (optionally bench) {1670}
+
 
 ### Crystal Heart
 
@@ -136,15 +136,19 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Markoth
 
-* Dreamgate out, bench at King's Station
+* Dreamgate out, bench at King's Station (hit bell)
 * Go through lower KE to fight markoth and get essence, benchwarp
+
+### Failed Champion
+* \[2U] Stag to Forgotten Crossroads, bench
+* Fight Failed Champion, benchwarp
 
 ### Queen's Gardens Arena
 
 * Swap to Shaman + dashmaster
-* \[2U] Stag to Queen's Station and bench there
+* \[1D] Stag to Queen's Station and bench there
 * \[2U] Stag to Dirtmouth, Cdash to peak elevator and hit lever (50)
-* Benchwarp and enter Queen's Gardens through QGA (or wraiths entrance, 8s slower)
+* Benchwarp (hit bell) and enter Queen's Gardens through QGA (or wraiths entrance, 8s slower)
 * Go up and hit wraiths lever then come back down (51)
 * Petra arena + lever (52)
 * Set dgate at the end of petra gauntlet
@@ -167,10 +171,8 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 ### Enter White Palace
 
-* Swap to Shaman + Wielder
-* \[3D] Stag to Resting Grounds, bench
-* \[3D] Stag to Forgotten Crossroads
-* Fight Failed Champion, benchwarp
+* Remove Shaman
+* \[2D] Stag to Resting Grounds, bench
 * Hit bell, get Woke Nail, benchwarp
 * Swap to Shaman + Dashmaster
 * \[1D] Stag to Hidden station, enter White Palace
