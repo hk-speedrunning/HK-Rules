@@ -173,7 +173,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 
 * Remove Shaman
 * \[2D] Stag to Resting Grounds, bench
-* Hit bell, get Woke Nail, benchwarp
+* Get Woke Nail, benchwarp
 * Swap to Shaman + Dashmaster
 * \[1D] Stag to Hidden station, enter White Palace
 
