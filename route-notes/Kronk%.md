@@ -174,7 +174,7 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Remove Shaman
 * \[2D] Stag to Resting Grounds, bench
 * Get Woke Nail, benchwarp
-* Swap to Shaman + Dashmaster
+* Swap to Dashmaster + Wielder + Twister
 * \[1D] Stag to Hidden station, enter White Palace
 
 ### White Palace
@@ -184,5 +184,5 @@ Originally based on https://drop.rixx.de/JjBs (not sure who wrote them in the fi
 * Bench in atrium
 * Do right atrium (60 + 61)
 * Go to balcony, fireball the Path of Pain entrance, get lever (62)
-* Benchwarp, swap shaman for dashmaster, enter Path of Pain
+* Benchwarp, enter Path of Pain
 * KRONK (63)
