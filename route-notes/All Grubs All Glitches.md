@@ -1,5 +1,6 @@
 # All Grubs All Glitches [Matoclip reroute] for 1.4+
 
+Made by meemee.
 Note: This route relies on using the Mato bench to get noclip. If you are having issues with matoclip try increasing framerate or slowing mash speed.
 
 ## Grub Crystal Peak Mimic
