@@ -94,6 +94,7 @@ On patch 1.4.3.2, Spore Shroom is bugged such that it deals much more damage per
 
 ## THK Scream
 - head left from Herrah (optional geo rocks if you’re still below 250)
+- before leaving Beast’s Den, bench and remove Shaman Stone for Spore Shroom (don’t overcharm, your soul is just going to healing)
 - head to top right for stag station
 - buy stag, firebell/cdashbell/lookdown for faster stag, stag to Dirtmouth
 - head down well, right to Black Egg Temple
@@ -101,16 +102,8 @@ On patch 1.4.3.2, Spore Shroom is bugged such that it deals much more damage per
 - break the chains, let them scream
 
 ## The Hollow Knight
-- THK is much faster on this patch than on 1221, so Fireborn’s video is only so helpful. My experience says to usually only go for two nail swings after an attack to not get caught in a swing when they start another attack, but it can depend.
-- When THK is stabbing themself they only take 1 damage from any source. Don’t use your spells then: save up soul for after, take time to heal if you need.
-- If you can get over THK as they scream so you fall into them, you get to gain control early and ‘skip’ the scream. This is only really useful for the fourth and final scream (counting first from the one that begins the fight).
-- focus after they die, absorb the infection, GG
-
-
-## THK Scream
-- before leaving Beast’s Den, bench and remove Shaman Stone for Spore Shroom (don’t overcharm, your soul is just going to healing)
-
-## The Hollow Knight
 - The strategy here is much different with Spore Shroom. The charm has a cooldown on when it produces a spore cloud, but that gets reset if you take damage. So optimally, you can heal, get hit, and start another heal to do a ton more damage.
 - The other major tactic is using inventory to cancel knockback - if you open your inventory while on the ground before you get hit, you get control immediately instead of having a knockback animation. This means you can start healing quicker after taking a hit.
 - To my knowledge, Spore Shroom bypasses THK’s 1-damage self-stab rule, but it’s still one of the best times to stock up on soul.
+- If you can get over THK as they scream so you fall into them, you get to gain control early and ‘skip’ the scream. This is only really useful for the fourth and final scream (counting first from the one that begins the fight).
+- focus after they die, absorb the infection, GG
