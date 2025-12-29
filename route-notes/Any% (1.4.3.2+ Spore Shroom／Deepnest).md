@@ -1,5 +1,6 @@
-# Hollow Knight Any% 1.4.3.2+ NMG Route Notes
-*will detail Spore Shroom route below QGA route
+# Hollow Knight Any% 1.4.3.2+ NMG (Deepnest / Sporeshroom) Route Notes
+
+On patch 1.4.3.2, Spore Shroom is bugged such that it deals much more damage per use to The Hollow Knight. This was patched in 1.5 patches (there’s like a 20% chance that it just doesn’t deal damage to THK now, idk), but the route through Deepnest that would get it on 1.4 is still applicable for those not wanting to do QGA or a very tricky Queen’s Gardens with a lot of timeloss potential. Without Spore Shroom, the route is said to lose approximately 40-45 seconds, which Spore Shroom THK drops to about 20 seconds, but I’m unsure how heavily timed that is with current optimizations.
 
 ## Vengeful Spirit
 - left after well
@@ -35,11 +36,9 @@
 ## Chandelier/Watcher Knights
 - Seer skip (worth even if you fail)
 - head back left and down, take elevator to City
-- collect journal above King’s Station
-- head to King’s Station, pick up seal (optional bench)
-- head left, kill Gorgeous Husk + followers (+460 or so)
-- head left, open lever in fountain room
-- object pogo up to Watcher’s Spire
+- kill the enemies guarding the journal (+50 geo) and collect the journal
+- head down and left, kill Gorgeous Husk + followers (+460 or so)
+- head left, object pogo up to Watcher's Spire
 - kill Great Husk Sentry (optional bench before), head right and up (+50)
 - have 3 hits of soul before Watcher Knights, head up to arena
 - fireball to break ceiling, drop the chandelier
@@ -48,8 +47,11 @@
 ## Lumafly Lantern
 - head up to Lurien without getting rewards
 - kill Lurien
-- head back down, pick up geo chest and seal, head down and left to bridge
-- head down, talk to Lemm outside fountain, then sell to him (+1100)
+- head back down, pick up geo chest and seal, head down to the bottom of Spire
+- go left, open fountain lever and talk to Lemm
+- keep going left into rafters
+- do your favourite flavour of rafters skip, pickup rafters seal
+- head right and sell to Lemm (+1100)
 - head back right to King’s Station (you want about 2320 geo by now, which you can reach by killing the enemies below Spire or by the fountain lever; shouldn’t be much below that number, the rest of your geo comes from devouts)
 - open King’s Station, lookdown/firebell to get stag earlier, stag to Dirtmouth
 - open Dirtmouth stag lever, bench, head to Sly and buy Lantern
@@ -68,14 +70,19 @@
 - Trinomi drop or flail around like me, head into Teacher’s Archives (optional bench here)
 - head down to Uumuu, kill the jellyfish (ideally 2 cycle, aim for consistent 3 cycle)
 
-## Queen’s Gardens/Trap Bench
-- cdash past acid to reach and absorb Monomon
-- exit Archives, head left from Archives door
-- enter acid thorns room (2nd left from the top)
-- acid skip into Gardens
-- Petra arena (petras have 45 health, which is two spells and a nail hit; missing spells hurts a lot, try and get a setup to hit both on spawn)
-- head down and left to Deepnest entrance (just right of toll bench)
-- head down into Deepnest and left to Distant Village, collecting full soul
+## Fungal movement
+- after Archives, go left
+- head down, go right past Queen’s Station into Fungal Wastes
+- drop into first downward transition, head left in room after
+- go left to Spore Shroom room (pick up if 1.4.3.2 and use hazard to respawn up top, else just ignore)
+- fall into Deepnest from breakable floor (have to go all the way past and then back over to break floor)
+
+## Deepnest movement
+- after fall (cancel hardfall with dash), head right, then to bottom
+- head down garpede room, then down larger room to Deepnest hot springs (optional bench here)
+- head left from hot springs, then up and left (above Nosk entrance)
+- head all the way to the top-left transitions in the next two rooms
+- last room is the same as QG route, head left to Distant Village
 - sit and rest :)
 
 ## Herrah
@@ -99,26 +106,6 @@
 - If you can get over THK as they scream so you fall into them, you get to gain control early and ‘skip’ the scream. This is only really useful for the fourth and final scream (counting first from the one that begins the fight).
 - focus after they die, absorb the infection, GG
 
-
-# Alternate Route: Deepnest Spa/Spore Shroom
-
-On patch 1.4.3.2, Spore Shroom is bugged such that it deals much more damage per use to The Hollow Knight. This was patched in 1.5 patches (there’s like a 20% chance that it just doesn’t deal damage to THK now, idk), but the route through Deepnest that would get it on 1.4 is still applicable for those not wanting to do QGA or a very tricky Queen’s Gardens with a lot of timeloss potential. Without Spore Shroom, the route is said to lose approximately 40-45 seconds, which Spore Shroom THK drops to about 20 seconds, but I’m unsure how heavily timed that is with current optimizations.
-
-The only changes to the route are from after Uumuu to entering Beast’s Den, and geo routing is the same. We’re just taking a different route to Beast’s Den to avoid Queen’s Gardens.
-
-## Fungal movement
-- after Archives, go left
-- head down, go right past Queen’s Station into Fungal Wastes
-- drop into first downward transition, head left in room after
-- go left to Spore Shroom room (pick up if 1.4.3.2 and use hazard to respawn up top, else just ignore)
-- fall into Deepnest from breakable floor (have to go all the way past and then back over to break floor)
-
-## Deepnest movement
-- after fall (cancel hardfall with dash), head right, then to bottom
-- head down garpede room, then down larger room to Deepnest hot springs (optional bench here)
-- head left from hot springs, then up and left (above Nosk entrance)
-- head all the way to the top-left transitions in the next two rooms
-- last room is the same as QG route, head left to Distant Village
 
 ## THK Scream
 - before leaving Beast’s Den, bench and remove Shaman Stone for Spore Shroom (don’t overcharm, your soul is just going to healing)
