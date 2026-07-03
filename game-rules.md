@@ -37,7 +37,7 @@
 - You may take multiple breaks at once - eg. a 20 minute break will use 2 of your allotted breaks.
 - Verifiers may reject your run if they determine it to be abusing the pause system.
 - The recording must be left on the file select screen - switching to a different scene will result in a rejection.
-- To compensate for timesave in menuing, a 0.1s time penalty will be added to your final time.
+- To compensate for timesave in menuing, a 0.1s time penalty will be added to your final time per break.
 - Pausing the timer incorrectly will not result in a rejection, but a penalty of 0.3s or more will be applied to compensate for time saved.
 - Breaks may not be taken during colosseums, White Palace, Black egg and after entering Pantheon 1
 
