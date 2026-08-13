@@ -73,7 +73,7 @@
 
 ### Game Settings
 
-- Resolutions with an aspect ratio other than 2:1 are not allowed.
+- Resolutions with an aspect ratio larger than 2:1 are not allowed.
 - The following values in _[game location]/[hollow_knight_Data]/Config.ini_ may be edited:
   - **FrameRateCap**: May be set to any value of at least 50.
   - **CameraShakeMultiplier**: May be set to any value. Note: Gameplay must still be of watchable quality so putting the multiplier above 1 or below -1 may result in a rejection.
