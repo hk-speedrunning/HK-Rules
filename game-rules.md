@@ -28,18 +28,19 @@
 
 ### Breaks
 
--  You may take your first break after the first 30 minutes. 
--  For every hour of run length, you may take another 10 minute break 
-- Breaks can be a maximum of 10 minutes long: any time over this threshold will be added to your final time.
-- Breaks must be taken on the File Select screen on the menu:
-    - Pause the timer after you have hit the button to open the file select menu.
-    - To end the break, select a file then hit unpause.
-- You may take multiple breaks at once - eg. a 20 minute break will use 2 of your allotted breaks.
-- Verifiers may reject your run if they determine it to be abusing the pause system.
-- The recording must be left on the file select screen - switching to a different scene will result in a rejection.
+- Each run starts with one allowed break. For every hour of the run, you may take one additional break.
+- Each break can be up to 10 minutes long:
+    - Any time over this threshold will be added to your final time.
+    - The exception is if you have multiple unused breaks, in which case they can be used in one longer break (e.g. two unused breaks can be "spent" on one 20 minute break if you prefer).
+- Breaks must be taken on the File Select screen:
+    - Pause the timer after you have hit the button to open the File Select menu.
+    - To end the break, select a file then unpause the timer.
+- The recording must be left on the File Select screen - switching to a different scene will result in a rejection.
 - To compensate for timesave in menuing, a 0.1s time penalty will be added to your final time per break.
 - Pausing the timer incorrectly will not result in a rejection, but a penalty of 0.3s or more will be applied to compensate for time saved.
-- Breaks may not be taken during colosseums, White Palace, Black egg and after entering Pantheon 1
+- Breaks may not be taken during Colosseums, White Palace, Black Egg, or after entering Pantheon 1.
+- Verifiers may reject your run if they determine it to be abusing the pause system.
+- Verifiers may also allow a run otherwise in violation of the break rules if it's deemed within the spirit of the rules (e.g. a run just below an hour barrier taking an extra break).
 
 ### Automated Submission Edits & Rejections
 - Our bot Hornet may edit your submission & leave comments in the description. Please do not edit your submission to revert these changes.
