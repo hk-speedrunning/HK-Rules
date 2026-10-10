@@ -67,7 +67,7 @@
 ### Game modifications
 
 - Game modifications, including the Modding API, are banned with the below exceptions:
-  - The "RuntimePatches" assembly mod and its suite of toggleable patches. These currently include: ScreenShakeModifier, MiniSavestates, TextMasher, and IntroCutsceneSkipper.
+  - The "[RuntimePatches](https://github.com/hk-speedrunning/HK-Resources/tree/main/RuntimePatches)" assembly mod (or [here](https://github.com/olvior/AssemblyPatches/releases) for 1.2.2.1) and its suite of toggleable patches. These currently include: ScreenShakeModifier, MiniSavestates, TextMasher, and IntroCutsceneSkipper.
     - MiniSavestates is allowed **_only_** in IL runs, and only if a savestate is not loaded during the run itself.
   - The standalone [load normaliser](https://github.com/hk-speedrunning/HK-Resources/blob/main/README.md#loadnormaliser) used for races is allowed for No Major Glitches and 1.4.3.2+ NMG runs. It is banned for NMMS and AG runs.
   - The [load extender](https://github.com/hk-speedrunning/HK-Resources/blob/main/README.md#loadextender) is allowed for NMMS and AG runs.
